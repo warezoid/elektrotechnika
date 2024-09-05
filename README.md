@@ -13,4 +13,16 @@ Tato skripta, včetně vlastní grafiky, jsou licencována pod licencí MIT. Pln
 
 
 
+## Zdroje
+Zdroje lze chápat jako prostředky, z nichž jsem během svého samostudia čerpal znalosti, například odbornou literaturu, naučná videa a další vzdělávací materiály. Zahrnují také nástroje, které jsem využil při tvorbě skriptů.
+
+- **Literatura**
+
+- **Naučná videa**
+
+- **Nástroje**
+    - ChatGPT: [chatgpt.com](https://chatgpt.com)
+    - A Internet jako takový.
+
+
 ###### Created by warezoid with the love of freedom and numbers.
