@@ -31,15 +31,17 @@ warezoid@proton.me
     - [Elektrický odpor](#elektrický-odpor)
 - [Zdroje kapitoly 1](#zdroje-kapitoly-1)
 
+<hr>
 
 #### Síla.
 - **Značka: F**
 - **Jednotky: newton (N)**
-<br>
+
 - Síla vyjadřuje míru vzájemného působení těles nebo polí.
 - Projevuje se statickými a dynamickými účinky.
     - Statický účinek: deformace těles.
     - Dynamický účinek: změna pohybového stavu.
+<hr>
 
 #### Energie a práce.
 - Práce je působení síly na těleso po určité dráze.
@@ -49,7 +51,7 @@ warezoid@proton.me
 #### Elektrický náboj.
 - **Značka: Q**
 - **Jednotky: coulomb (C), ampérsekunda (As), miliampérhodina (mAh)**
-<br>
+
 - Elektrický náboj je fyzikální vlastnost hmoty.
 - Definicí coulombu je množství náboje, které je přeneseno proudem o velikosti 1 ampér za dobu 1 sekundy.
 
@@ -62,19 +64,21 @@ warezoid@proton.me
 
 - Ampérhodina (Ah): 1 Ah = 3600 C
 - Miliampérhodina (mAh): 0.001 Ah
+<hr>
 
 #### Elektrický proud.
 - **Značka: I**
 - **Jednotka: ampér (A)**
-<br>
+
 - Elektrický proud je souvislý pohyb nosičů elektrického náboje (elektrony nebo ionty), které projdou za 1 sekundu daným průřezem vodiče.
 - Definicí ampéru je:
     - Pokud jsou 2 nakonečně dlouhé vodiče od sebe ve vzdálenosti 1 metr, tak se buď přitahují nebo odpuzují (podle nabití nábojů) silou 2.7E-7 N.
+<hr>
 
 #### Elektrický odpor.
 - **Značka: R**
 - **Jednotka: ohm (&#937;)**
-<br>
+
 - Elektrický odpor je schopnost materiálu bránit průchodu elektrického proudu.
 - Převrácená hodnota elektrického odporu je elektrická vodivost.
 - V důsledku srážek nosičů elektrického náboje s odporem vzniká odpadní teplo.
@@ -86,6 +90,7 @@ warezoid@proton.me
 **Vztahy mezi jednotkami**
 
 - &#937; = V / A
+<hr>
 
 #### Zdroje kapitoly 1
 - [Youtube](https://youtube.com/)
