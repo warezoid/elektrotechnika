@@ -9,6 +9,12 @@
     - [Pojmy a veličiny](#kapitola-1---pojmy-a-veličiny)
 
 ## Kontakt
+Pokud objevíte jakékoli chyby, nepřesné údaje, máte návrhy na vylepšení, nebo máte dotazy, neváhejte mě kontaktovat. Můžete tak učinit prostřednictvím záložky Issues na GitHubu nebo na e-mail uvedený níže. Vaše podněty mohou přispět k užitečné diskusi, která může být přínosná i pro ostatní čtenáře.
+
+```
+warezoid@proton.me
+```
+
 ## Úvod
 
 
