@@ -36,7 +36,7 @@ warezoid@proton.me
 #### Síla.
 - **Značka: F**
 - **Jednotky: newton (N)**
-
+<br>
 - Síla vyjadřuje míru vzájemného působení těles nebo polí.
 - Projevuje se statickými a dynamickými účinky.
     - Statický účinek: deformace těles.
@@ -48,10 +48,12 @@ warezoid@proton.me
 - Energií lze chápat jako schopnost vykonat práci. Nelze ji vytvořit ani zničit.
 - Ve vztahu mezi energií a prací je práce stav a energie děj.
 
+<hr>
+
 #### Elektrický náboj.
 - **Značka: Q**
 - **Jednotky: coulomb (C), ampérsekunda (As), miliampérhodina (mAh)**
-
+<br>
 - Elektrický náboj je fyzikální vlastnost hmoty.
 - Definicí coulombu je množství náboje, které je přeneseno proudem o velikosti 1 ampér za dobu 1 sekundy.
 
@@ -69,7 +71,7 @@ warezoid@proton.me
 #### Elektrický proud.
 - **Značka: I**
 - **Jednotka: ampér (A)**
-
+<br>
 - Elektrický proud je souvislý pohyb nosičů elektrického náboje (elektrony nebo ionty), které projdou za 1 sekundu daným průřezem vodiče.
 - Definicí ampéru je:
     - Pokud jsou 2 nakonečně dlouhé vodiče od sebe ve vzdálenosti 1 metr, tak se buď přitahují nebo odpuzují (podle nabití nábojů) silou 2.7E-7 N.
@@ -78,7 +80,7 @@ warezoid@proton.me
 #### Elektrický odpor.
 - **Značka: R**
 - **Jednotka: ohm (&#937;)**
-
+<br>
 - Elektrický odpor je schopnost materiálu bránit průchodu elektrického proudu.
 - Převrácená hodnota elektrického odporu je elektrická vodivost.
 - V důsledku srážek nosičů elektrického náboje s odporem vzniká odpadní teplo.
