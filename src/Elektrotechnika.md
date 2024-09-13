@@ -103,10 +103,10 @@ warezoid@proton.me
 - Všechen náboj soustředěný v malé kuličce se nazývá bodový náboj.
 - Testovací náboj je obvykle kladný elektrický náboj a jeho přítomnost je využívána k určení směru a velikosti elektrického pole.
 - Testovací náboj nemá žádný vliv na elektrické pole.
-
+<br>
 - Šipky kolem bodového náboje určují směr, kterým se vydá testovací náboj.
 - Čím blíže se testovací náboj nachází k bodovému náboji, tím větší je síla, kterou na něj elektrické pole působí.
-
+<br>
 - Mezi dvěma bodovými náboji působí na testovací náboj různé síly v závislosti na jeho poloze, přičemž má každá síla jinou velikost a směr.
 - Výsledný směr je vypočítán součtem těchto sil.
 
