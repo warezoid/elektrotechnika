@@ -75,6 +75,7 @@ warezoid@proton.me
 - Elektrický proud je souvislý pohyb nosičů elektrického náboje (elektrony nebo ionty), které projdou za 1 sekundu daným průřezem vodiče.
 - Definicí ampéru je:
     - Pokud jsou 2 nakonečně dlouhé vodiče od sebe ve vzdálenosti 1 metr, tak se buď přitahují nebo odpuzují (podle nabití nábojů) silou 2.7E-7 N.
+- Kolem všech pohybujících se elektrických nábojů vzniká zároveň magnetické pole.
 <hr>
 
 #### Elektrický odpor.
@@ -99,6 +100,7 @@ warezoid@proton.me
 
 **Obraz elektrického pole**
 - Obraz elektrického pole je znázorněn pomocí siločar, které ukazují směr a charakter působení pole.
+- Siločáry začínají a končí na elektrických nábojích různých polarit.
 
 <br>
 
@@ -117,8 +119,22 @@ warezoid@proton.me
 - Výsledný směr je vypočítán součtem těchto sil.
 
 ![Obraz elektrického pole](./img/ilustrace_1.png)
+<hr>
 
+#### Intenzita elektrického pole.
+- **Značka: E**
+- **Jednotka: volt na metr (V/m), newton na coulomb (N/C)**
+<br>
+- Intenzita elektrického pole vyjadřuje velikost a směr elektrického pole, tudíž je to vektorová veličina.
+- Lze ji chápat jako schopnost působit na elektrický náboj.
+- Tato schopnost se projeví pouze pokud do pole vložíme elektrický náboj.
+- Čím blíže jsme bodovému náboji, tím je intenzita elektrického pole větší, tím pádem bude na elektrický náboj působit větší síla.
 
+**Obraz intenzity elektrického pole**
+- Intenzitu elektrického pole lze zakreslit jako vrstevnice, které jsou vždy kolmé na siločáry.
+- Čím blíže jsou siločáry u sebe, tím bude působení elektrického pole větší. 
+
+![Obraz intenzity elektrického pole](./img/ilustrace_2.png)
 
 #### Zdroje kapitoly 1
 - [Youtube](https://youtube.com/)
