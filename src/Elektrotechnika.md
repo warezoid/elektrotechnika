@@ -29,6 +29,11 @@ warezoid@proton.me
     - [Elektrický náboj](#elektrický-náboj)
     - [Elektrický proud](#elektrický-proud)
     - [Elektrický odpor](#elektrický-odpor)
+    - [Elektrické pole](#elektrické-pole)
+    - [Intenzita elektrického pole](#intenzita-elektrického-pole)
+    - [Elektrický potenciál](#elektrický-potenciál)
+    - [Elektrické napětí](#elektrické-napětí)
+    - [Elektřina](#elektřina)
 - [Zdroje kapitoly 1](#zdroje-kapitoly-1)
 
 <hr>
@@ -141,10 +146,52 @@ warezoid@proton.me
 - Čím blíže jsme bodovému náboji, tím je intenzita elektrického pole větší, tím pádem bude na elektrický náboj působit větší síla.
 
 **Obraz intenzity elektrického pole**
-- Intenzitu elektrického pole lze zakreslit jako vrstevnice, které jsou vždy kolmé na siločáry.
+- Intenzitu elektrického pole lze zakreslit jako vrstevnice (ekvipotenciály), které jsou vždy kolmé na siločáry.
 - Čím blíže jsou siločáry u sebe, tím bude působení elektrického pole větší. 
 
 ![Obraz intenzity elektrického pole](./img/ilustrace_2.png)
+<hr>
+
+#### Elektrický potenciál.
+- **Značka: φ**
+- **Jednotka: volt (V)**
+
+<br>
+
+- Elektrický potenciál představuje množství práce potřebné k přenesení náboje z referenčního (počátečního) místa na dané místo v poli.
+- Referenční místo, obvykle označované jako místo s nulovým potenciálem, je často vyjádřeno jako uzemnění nebo jiný bod, kde je potenciál definován jako nula.
+- Popisuje potenciální (polohovou) energii elektrického náboje v elektrickém poli.
+- Elektrický potenciál je skalární veličina. (nemá směr).
+
+<hr>
+
+#### Elektrické napětí.
+- **Značka: U**
+- **Jednotka: volt (V)**
+
+<br>
+
+- Elektrické napětí je rozdíl dvou elektrických potencionálů v místech, kde se má vykonávat práce.
+- Napětí může nabývat kladných nebo záporných hodnot, v závislosti na tom, zda se jedná o spotřebu nebo zdroj energie.
+- Spotřeba (např. při pohybu nábojů) představuje samovolný pohyb nábojů, zatímco tlačení náboje proti intenzitě elektrického pole vyžaduje dodání napětí.
+- Napětí je úzce svázáno s energií.
+
+**Odvození Voltu**
+- Jednotka volt (V) není základní jednotkou v systému SI, a proto musí být odvozena z jiných základních jednotek SI.
+- Následující vzorce ukazují princip odvození jednotky volt.
+
+```
+V = W / A
+W = J / s
+J = N * m
+```
+
+<hr>
+
+#### Elektřina.
+- Elektřina je souhrn projevů elektrického pole a elektrodynamických jevů.
+- Je to vlastnost hmoty, která zahrnuje všechny jevy spojené s elektrickým nábojem a jeho interakcí s elektrickým a magnetickým polem.
+
 <hr>
 
 #### Zdroje kapitoly 1
@@ -158,3 +205,6 @@ warezoid@proton.me
     - [Nosič elektrického náboje](https://cs.wikipedia.org/wiki/Nosi%C4%8D_n%C3%A1boje)
     - [Elektrický proud](https://cs.wikipedia.org/wiki/Elektrick%C3%BD_proud)
     - [Elektrický odpor](https://cs.wikipedia.org/wiki/Elektrick%C3%BD_odpor)
+    - [Elektrický potenciál](https://cs.wikipedia.org/wiki/Elektrick%C3%BD_potenci%C3%A1l)
+    - [Elektrické napětí](https://cs.wikipedia.org/wiki/Elektrick%C3%A9_nap%C4%9Bt%C3%AD)
+    - [Elektřina](https://cs.wikipedia.org/wiki/Elekt%C5%99ina)
