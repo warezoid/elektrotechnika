@@ -20,6 +20,7 @@ Tato skripta, včetně vlastní grafiky, jsou licencována pod licencí MIT. Pln
 Obsah kapitol slouží k přehlednější orientaci a navigaci ve skriptech.
 
 - [Kapitola 1 - Pojmy a veličiny](./src/Elektrotechnika.md#kapitola-1---pojmy-a-veličiny)
+- [Kapitola 2 - Zákony](./src/Elektrotechnika.md#kapitola-2---zákony)
 
 
 

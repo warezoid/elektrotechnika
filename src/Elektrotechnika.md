@@ -208,3 +208,68 @@ J = N * m
     - [Elektrický potenciál](https://cs.wikipedia.org/wiki/Elektrick%C3%BD_potenci%C3%A1l)
     - [Elektrické napětí](https://cs.wikipedia.org/wiki/Elektrick%C3%A9_nap%C4%9Bt%C3%AD)
     - [Elektřina](https://cs.wikipedia.org/wiki/Elekt%C5%99ina)
+
+
+
+### Kapitola 2 - Zákony
+
+#### Obsah kapitoly 2
+- Obsah
+    - [Ohmův zákon](#ohmův-zákon)
+    - [Columbův zákon](#columbův-zákon)
+- [Zdroje kapitoly 2](#zdroje-kapitoly-2)
+
+<hr>
+
+#### Ohmův zákon.
+- Ohmův zákon vyjadřuje vztah mezi elektrickým napětím, proudem a odporem.
+
+**Vzorec**
+
+$$
+U = I \cdot R
+$$
+
+kde: 
+
+```
+U = elektrické napětí
+I = elektrický proud
+R = elektrický odpor
+```
+
+<hr>
+
+#### Columbův zákon.
+- Columbův zákon popisuje síly působící mezi nabitými elektrickými náboji.
+
+**Vzorec**
+
+$$
+F = k \cdot \frac{Q_1 \cdot Q_2}{r^2}
+$$
+
+kde: 
+
+```
+F = výsledná síla
+Q = velikost na sebe působících elektrických nábojů
+r = vzdálenost mezi elektrickými náboji
+k = konstanta úměrnosti
+```
+
+**Konstanta úměrnosti**
+$$
+k = \frac{1}{4 \cdot \pi \cdot \eta_0}
+$$
+
+- $\eta_0$ je v tomto případě permitivita vákua.
+
+<hr>
+
+#### Zdroje kapitoly 2
+- [Youtube](https://youtube.com/)
+    - [Názorná elektrotechnika](https://youtube.com/@nazornaelektrotechnika)
+        - [Základy Elektrotechniky](https://youtube.com/playlist?list=PL3r1xGSQfP9TBwvTqYEf6E-L9duHQbnir)
+- [Wikipedie](https://wikipedia.org)
+    - [Columbův zákon](https://cs.wikipedia.org/wiki/Coulomb%C5%AFv_z%C3%A1kon)
