@@ -259,6 +259,7 @@ k = konstanta úměrnosti
 ```
 
 **Konstanta úměrnosti**
+
 $$
 k = \frac{1}{4 \cdot \pi \cdot \eta_0}
 $$
