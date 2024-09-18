@@ -194,6 +194,17 @@ J = N * m
 
 <hr>
 
+#### Elektrická vodivost.
+- **Značka: G**
+- **Jednotka: siemens (S)**
+
+<br>
+
+- Hodnota elektrické vodivosti závisí na vlastnostech materiálu, průřezu vodiče, jeho délce a teplotě.
+- Elektrická vodivost je definována jako převrácená hodnota elektrického odporu.
+
+<hr>
+
 #### Zdroje kapitoly 1
 - [Youtube](https://youtube.com/)
     - [Názorná elektrotechnika](https://youtube.com/@nazornaelektrotechnika)
@@ -208,6 +219,7 @@ J = N * m
     - [Elektrický potenciál](https://cs.wikipedia.org/wiki/Elektrick%C3%BD_potenci%C3%A1l)
     - [Elektrické napětí](https://cs.wikipedia.org/wiki/Elektrick%C3%A9_nap%C4%9Bt%C3%AD)
     - [Elektřina](https://cs.wikipedia.org/wiki/Elekt%C5%99ina)
+    - [Elektrická vodivost](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_vodivost)
 
 
 
@@ -295,6 +307,47 @@ $$
 $$
 U = U_1 + U_2 + U_3
 $$
+
+<hr>
+
+#### Zapojení odporů.
+
+##### Sériové zapojení odporů.
+- Odporové prvky jsou zapojeny za sebou na jednom vodiči.
+- Všemi odpory protéká stejný elektrický proud, přičemž se napětí rozdělí mezi jednotlivé odpory.
+- Celkový odpor obvodu je dán součtem všech jednotlivých odporů.
+
+<br>
+
+- Níže je uvedený příklad sériového zapojení odporů.
+
+![Sériové zapojení odporů](./img/ilustrace_5.png)
+
+- Pro výpočet celkového odporu v elektrickém obvodu platí vztah:
+
+$$
+R = R_1 + R_2 + R_3
+$$
+
+##### Paralelní zapojení odporů.
+- Jednotlivé odpory jsou zapojeny na různých větvích obvodu.
+- S přibývajícími větvemi celkový odpor klesá, protože vzniká více cest, kudy může elektrický proud procházet.
+- Převrácená hodnota celkového odporu se rovná součtu převrácených hodnot jednotlivých odporů.
+- Převrácenou hodnotou odporu je elektrická vodivost.
+
+<br>
+
+- Níže je uvedený příklad paralelního zapojení odporů.
+
+![Sériové zapojení odporů](./img/ilustrace_6.png)
+
+- Pro výpočet celkového odporu v elektrickém obvodu platí vztah:
+
+$$
+\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}
+$$
+
+<hr>
 
 #### Zdroje kapitoly 2
 - [Youtube](https://youtube.com/)
