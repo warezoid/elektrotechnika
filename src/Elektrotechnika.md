@@ -268,9 +268,38 @@ $$
 
 <hr>
 
+#### Kirchhoffovy zákony.
+- Kirchhoffovy zákony popisují chování elektrického náboje a energie v elektrických obvodech.
+- Slouží k analýze elektrických obvodů.
+
+##### První Kirchhoffův zákon.
+- Součet proudů vstupujících do uzlu se rovná součtu proudů vystupujících z uzlu.
+- Elektrický náboj, tedy tok nábojů (elektrický proud), se nemůže nikam ztratit.
+
+![První Kirchhoffův zákon](./img/ilustrace_3.png)
+
+- Pro výše uvedený obrázek platí:
+
+$$
+I_1 + I_2 + I_3 = I_4 + I_5 + I_6
+$$
+
+##### Druhý Kirchhoffův zákon.
+- V uzavřeném obvodu je součet napětí na zdrojích roven součtu úbytků napětí na spotřebičích.
+- Elektrický obvod si vezme tolik napětí, kolik mu zdroj poskytne.
+
+![Druhý Kirchhoffův zákon](./img/ilustrace_4.png)
+
+- Pro výše uvedený obrázek platí:
+
+$$
+U = U_1 + U_2 + U_3
+$$
+
 #### Zdroje kapitoly 2
 - [Youtube](https://youtube.com/)
     - [Názorná elektrotechnika](https://youtube.com/@nazornaelektrotechnika)
         - [Základy Elektrotechniky](https://youtube.com/playlist?list=PL3r1xGSQfP9TBwvTqYEf6E-L9duHQbnir)
 - [Wikipedie](https://wikipedia.org)
     - [Columbův zákon](https://cs.wikipedia.org/wiki/Coulomb%C5%AFv_z%C3%A1kon)
+    - [Kirchhoffovy zákony](https://cs.wikipedia.org/wiki/Kirchhoffovy_z%C3%A1kony)
