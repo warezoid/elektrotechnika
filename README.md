@@ -21,6 +21,7 @@ Obsah kapitol slouží k přehlednější orientaci a navigaci ve skriptech.
 
 - [Kapitola 1 - Pojmy a veličiny](./src/Elektrotechnika.md#kapitola-1---pojmy-a-veličiny)
 - [Kapitola 2 - Zákony](./src/Elektrotechnika.md#kapitola-2---zákony)
+- [Kapitola 3 - Komponenty elektrického obvodu](./src/Elektrotechnika.md#kapitola-3---komponenty-elektrického-obvodu)
 
 
 

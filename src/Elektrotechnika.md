@@ -50,12 +50,14 @@ warezoid@proton.me
     - Dynamický účinek: změna pohybového stavu.
 <hr>
 
+
 #### Energie a práce.
 - Práce je působení síly na těleso po určité dráze.
 - Energií lze chápat jako schopnost vykonat práci. Nelze ji vytvořit ani zničit.
 - Ve vztahu mezi energií a prací je práce stav a energie děj.
 
 <hr>
+
 
 #### Elektrický náboj.
 - **Značka: Q**
@@ -75,7 +77,9 @@ warezoid@proton.me
 
 - Ampérhodina (Ah): 1 Ah = 3600 C
 - Miliampérhodina (mAh): 0.001 Ah
+
 <hr>
+
 
 #### Elektrický proud.
 - **Značka: I**
@@ -87,7 +91,9 @@ warezoid@proton.me
 - Definicí ampéru je:
     - Pokud jsou 2 nakonečně dlouhé vodiče od sebe ve vzdálenosti 1 metr, tak se buď přitahují nebo odpuzují (podle nabití nábojů) silou 2.7E-7 N.
 - Kolem všech pohybujících se elektrických nábojů vzniká zároveň magnetické pole.
+
 <hr>
+
 
 #### Elektrický odpor.
 - **Značka: R**
@@ -106,7 +112,9 @@ warezoid@proton.me
 **Vztahy mezi jednotkami**
 
 - &#937; = V / A
+
 <hr>
+
 
 #### Elektrické pole.
 - Elektrické pole je oblast kolem nabitého tělesa nebo částice, ve které působí elektrická síla na jiná nabitá tělesa nebo částice.
@@ -132,7 +140,9 @@ warezoid@proton.me
 - Výsledný směr je vypočítán součtem těchto sil.
 
 ![Obraz elektrického pole](./img/ilustrace_1.png)
+
 <hr>
+
 
 #### Intenzita elektrického pole.
 - **Značka: E**
@@ -150,7 +160,9 @@ warezoid@proton.me
 - Čím blíže jsou siločáry u sebe, tím bude působení elektrického pole větší. 
 
 ![Obraz intenzity elektrického pole](./img/ilustrace_2.png)
+
 <hr>
+
 
 #### Elektrický potenciál.
 - **Značka: φ**
@@ -165,6 +177,7 @@ warezoid@proton.me
 
 <hr>
 
+
 #### Elektrické napětí.
 - **Značka: U**
 - **Jednotka: volt (V)**
@@ -176,23 +189,39 @@ warezoid@proton.me
 - Spotřeba (např. při pohybu nábojů) představuje samovolný pohyb nábojů, zatímco tlačení náboje proti intenzitě elektrického pole vyžaduje dodání napětí.
 - Napětí je úzce svázáno s energií.
 
-**Odvození Voltu**
+**Odvození voltu**
 - Jednotka volt (V) není základní jednotkou v systému SI, a proto musí být odvozena z jiných základních jednotek SI.
 - Následující vzorce ukazují princip odvození jednotky volt.
 
+$$
+\begin{align*}
+V &= \frac{W}{A} \\
+W &= \frac{J}{s} \\
+J &= N \cdot m
+\end{align*}
+$$
+
+- Kde:
+
 ```
-V = W / A
-W = J / s
-J = N * m
+V = volty (elektrické napětí)
+W = watty (výkon)
+A = ampéry (elektrický proud)
+J = joule (energie)
+s = sekundy (čas)
+N = newton (síla)
+m = metr (dráha)
 ```
 
 <hr>
+
 
 #### Elektřina.
 - Elektřina je souhrn projevů elektrického pole a elektrodynamických jevů.
 - Je to vlastnost hmoty, která zahrnuje všechny jevy spojené s elektrickým nábojem a jeho interakcí s elektrickým a magnetickým polem.
 
 <hr>
+
 
 #### Elektrická vodivost.
 - **Značka: G**
@@ -204,6 +233,71 @@ J = N * m
 - Elektrická vodivost je definována jako převrácená hodnota elektrického odporu.
 
 <hr>
+
+
+#### Úbytek napětí
+- **Značka: ΔU**
+- **Jednotka: volt (V)**
+
+<br>
+
+- Úbytek napětí je jev v elektrickém obvodu, kdy dochází ke ztrátě části napětí na spotřebiči nebo odporu.
+- Ztráta napětí znamená vykonání práce, při které se elektrická energie mění na teplo.
+- Teplo vzniká tím, že se elektrony nesoucí náboj sráží s atomy materiálu, například s atomy mědi. Tím se atomy rozkmitají a jejich pohybem vzniká teplo.
+- Úbytek napětí je dán Ohmovým zákonem, a proto platí:
+
+$$
+\Delta U = I \cdot R
+$$
+
+- Tím pádem platí že:
+    - Vyšší napětí umožňuje vykonat stejné množství práce při nižším elektrickém proudu, což vede k menším ztrátám.
+
+<hr>
+
+
+#### Výkon.
+- **Značka: P**
+- **Jednotka: watt (W)**
+
+<br>
+
+- Výkon vyjadřuje množství práce za jednotku času.
+- Výkon v elektrickém obvodu vypočteme jako součin elektrického napětí a proudu.
+
+$$
+P = U \cdot I
+$$
+
+- Pokud vynásobíme elektrický proud úbytkem napětí na odporové složce obvodu, získáme ztráty, neboli ztrátové teplo.
+
+$$
+\Delta P = \Delta U \cdot I
+$$
+
+**Odvození wattu**
+- Jednotka watt (W) není základní jednotkou v systému SI, a proto musí být odvozena z jiných základních jednotek SI.
+- Následující vzorce ukazují princip odvození jednotky watt.
+
+$$
+\begin{align*}
+W &= \frac{J}{s} \\
+J &= N \cdot m
+\end{align*}
+$$
+
+- Kde:
+
+```
+W = watty (výkon)
+J = joule (energie)
+s = sekundy (čas)
+N = newton (síla)
+m = metr (dráha)
+```
+
+<hr>
+
 
 #### Zdroje kapitoly 1
 - [Youtube](https://youtube.com/)
@@ -220,6 +314,9 @@ J = N * m
     - [Elektrické napětí](https://cs.wikipedia.org/wiki/Elektrick%C3%A9_nap%C4%9Bt%C3%AD)
     - [Elektřina](https://cs.wikipedia.org/wiki/Elekt%C5%99ina)
     - [Elektrická vodivost](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_vodivost)
+    - [Výkon](https://cs.wikipedia.org/wiki/V%C3%BDkon)
+
+<hr>
 
 
 
@@ -251,6 +348,7 @@ R = elektrický odpor
 ```
 
 <hr>
+
 
 #### Columbův zákon.
 - Columbův zákon popisuje síly působící mezi nabitými elektrickými náboji.
@@ -310,6 +408,7 @@ $$
 
 <hr>
 
+
 #### Zapojení odporů.
 
 ##### Sériové zapojení odporů.
@@ -349,6 +448,7 @@ $$
 
 <hr>
 
+
 #### Zdroje kapitoly 2
 - [Youtube](https://youtube.com/)
     - [Názorná elektrotechnika](https://youtube.com/@nazornaelektrotechnika)
@@ -356,3 +456,40 @@ $$
 - [Wikipedie](https://wikipedia.org)
     - [Columbův zákon](https://cs.wikipedia.org/wiki/Coulomb%C5%AFv_z%C3%A1kon)
     - [Kirchhoffovy zákony](https://cs.wikipedia.org/wiki/Kirchhoffovy_z%C3%A1kony)
+
+<hr>
+
+
+
+### Kapitola 3 - Komponenty elektrického obvodu
+
+#### Obsah kapitoly 3
+- Obsah
+    - [Zdroj](#zdroj)
+    - [Spotřebič](#spotřebič)
+- [Zdroje kapitoly 3](#zdroje-kapitoly-3)
+
+<hr>
+
+
+#### Zdroj.
+**Schématické značení**
+
+![Schématické značení zdroje](./img/ilustrace_7.png)
+
+- Elektrický proud teče z kladného pólu (+) k zápornému pólu (−).
+- Napětí je orientováno opačně. Ze záporného pólu (−) ke kladnému pólu (+).
+
+<hr>
+
+
+#### Spotřebič.
+- Směr proudu na spotřebiči je stejný jako orientace napětí.
+
+<hr>
+
+
+#### Zdroje kapitoly 3
+- [Youtube](https://youtube.com/)
+    - [Názorná elektrotechnika](https://youtube.com/@nazornaelektrotechnika)
+        - [Základy Elektrotechniky](https://youtube.com/playlist?list=PL3r1xGSQfP9TBwvTqYEf6E-L9duHQbnir)
