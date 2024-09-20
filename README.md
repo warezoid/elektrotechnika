@@ -16,18 +16,27 @@ Tato skripta, včetně vlastní grafiky, jsou licencována pod licencí MIT. Pln
 
 
 
-## Obsah kapitol
-Obsah kapitol slouží k přehlednější orientaci a navigaci ve skriptech.
+## Kapitoly
+Sekce kapitoly slouží k přehlednější orientaci a navigaci ve skriptech.
 
-- [Kapitola 1 - Pojmy a veličiny](./src/Elektrotechnika.md#kapitola-1---pojmy-a-veličiny)
-- [Kapitola 2 - Zákony](./src/Elektrotechnika.md#kapitola-2---zákony)
-- [Kapitola 3 - Komponenty elektrického obvodu](./src/Elektrotechnika.md#kapitola-3---komponenty-elektrického-obvodu)
+- [Kapitola 1 - Pojmy a veličiny](./src/kapitoly/kapitola_1.md)
+- [Kapitola 2 - Zákony](./src/kapitoly/kapitola_2.md)
+- [Kapitola 3 - Komponenty elektrického obvodu](./src/kapitoly/kapitola_3.md)
 
 
 
 ## FAQ
 - *Našel jsem chybu, nepřesnost nebo mám nápad na vylepšení.*
-    - V takovém případě mě prosím neváhejte kontaktovat prostřednictvím záložky Issues na GitHubu nebo na e-mailovou adresu uvedenou [zde](./src/Elektrotechnika.md#kontakt). Alternativně můžete vytvořit pull request s opravenou verzí, včetně zdrojů a dalších relevantních údajů.
+    - V takovém případě mě prosím neváhejte kontaktovat prostřednictvím záložky Issues na GitHubu nebo na e-mailovou adresu uvedenou níže v sekci [kontakt](#kontakt). Alternativně můžete vytvořit pull request s opravenou verzí, včetně zdrojů a dalších relevantních údajů.
+
+
+
+## Kontakt
+Pokud objevíte jakékoli chyby, nepřesné údaje, máte návrhy na vylepšení, nebo máte dotazy, neváhejte mě kontaktovat. Můžete tak učinit prostřednictvím záložky Issues na GitHubu nebo na e-mail uvedený níže. Vaše podněty mohou přispět k užitečné diskusi, která může být přínosná i pro ostatní čtenáře.
+
+```
+warezoid@proton.me
+```
 
 
 
@@ -41,6 +50,7 @@ Zdroje lze chápat jako prostředky, z nichž jsem během svého samostudia čer
 - **Nástroje**
     - ChatGPT: [chatgpt.com](https://chatgpt.com)
     - A Internet jako takový.
+
 
 
 ###### Created by warezoid with the love of freedom and numbers.
