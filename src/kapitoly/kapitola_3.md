@@ -27,6 +27,11 @@ Třetí kapitola popisuje činnost, využití a další informace o klíčových
 #### Spotřebič.
 - Směr proudu na spotřebiči je stejný jako orientace napětí.
 
+<hr>
+
+
+#### Kondenzátor.
+
 
 
 ## Zdroje kapitoly

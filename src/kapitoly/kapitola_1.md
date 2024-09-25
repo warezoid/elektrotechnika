@@ -15,6 +15,11 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
     - [Elektrický potenciál](#elektrický-potenciál)
     - [Elektrické napětí](#elektrické-napětí)
     - [Elektřina](#elektřina)
+    - [Elektrická vodivost](#elektrická-vodivost)
+    - [Úbytek napětí](#úbytek-napětí)
+    - [Výkon](#výkon)
+    - [Elektrická kapacita](#elektrická-kapacita)
+    - [Indukční pole](#indukční-pole)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -279,6 +284,69 @@ N = newton (síla)
 m = metr (dráha)
 ```
 
+<hr>
+
+
+### Elektrická kapacita.
+- **Značka: C**
+- **Jednotka: farad (F)**
+
+<br>
+
+- Elektrická kapacita vyjadřuje schopnost [kondenzátoru](./kapitola_3.md#kondenzátor) nebo soustavy vodičů uchovávat elektrický náboj.
+- Vyjadřuje vztah mezi elektrickým napětím a elektrickým nábojem.
+- Kapacitu lze vypočítat podle následujícího vzorce:
+
+$$
+C = \frac{Q}{U}
+$$
+
+- Kde:
+
+```
+C = elektrická kapacita (farad)
+Q = elektrický náboj (coulomb)
+U = napětí (volt)
+```
+
+- U kondenzátoru s deskami můžeme kapacitu odvodit z následujícího vzorce:
+
+$$
+C = \frac{S \cdot ε}{d}
+$$
+
+- Kde:
+
+```
+C = elektrická kapacita (farad)
+S = obsah (plocha) desek kondenzátoru (m²)
+ε = permitivita prostředí mezi deskami (F/m)
+d = vzdálenost mezi deskami (m)
+```
+
+<hr>
+
+
+### Indukční pole.
+- **Značka: D**
+- **Jednotka: coulomb na metr čtvereční (C/m²)**
+
+<br>
+
+- Elektrická indukce (indukční pole) je veličina charakterizující elektrické pole, která bere v úvahu vliv volných nábojů bez vlivu vázaných nábojů v dielektriku.
+- Vázané náboje vznikají polarizací dielektrika, kdy vlivem vnějšího elektrického pole dochází k vytvoření dipólů.
+- Dipól je útvar, kde dochází k oddělení kladného a záporného náboje v rámci molekul nebo atomů.
+- Elektrickou indukci lze vypočítat podle vzorce:
+
+$$
+D = E \cdot ε
+$$
+
+```
+D = vektor elektrické indukce (C/m²)
+E = intenzita elektrického pole (V/m)
+ε = permitivita prostředí (F/m)
+```
 
 
 ## Zdroje kapitoly
@@ -297,3 +365,6 @@ m = metr (dráha)
     - [Elektřina](https://cs.wikipedia.org/wiki/Elekt%C5%99ina)
     - [Elektrická vodivost](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_vodivost)
     - [Výkon](https://cs.wikipedia.org/wiki/V%C3%BDkon)
+    - [Elektrická kapacita](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_kapacita)
+    - [Elektrická indukce](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_indukce)
+    - [Dielektrikum](https://cs.wikipedia.org/wiki/Dielektrikum)
