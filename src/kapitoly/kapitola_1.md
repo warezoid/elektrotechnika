@@ -18,6 +18,7 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
     - [Elektrická vodivost](#elektrická-vodivost)
     - [Úbytek napětí](#úbytek-napětí)
     - [Výkon](#výkon)
+    - [Permitivita](#permitivita)
     - [Elektrická kapacita](#elektrická-kapacita)
     - [Indukční pole](#indukční-pole)
 - [Zdroje](#zdroje-kapitoly)
@@ -287,6 +288,29 @@ m = metr (dráha)
 <hr>
 
 
+### Permitivita.
+- **Značka: ε**
+- **Jednotka: farad na metr (F/m)**
+
+<br>
+
+- Vyjadřuje míru odporu při vytváření elektrického pole v určitém materiálu.
+- Permitivitu materiálu vypočteme jako součin permitivity vakua a relativní permitivity.
+- Relativní permitivita je poměrná hodnota vůči permitivitě vakua.
+
+$$
+\varepsilon = \varepsilon_0 \cdot \varepsilon_r
+$$
+
+- Značku permitivity vakua a její hodnotu naleznete níže:
+
+$$
+\varepsilon_0 = 8.854 \cdot 10^{-12} \, \mathrm{F/m}
+$$
+
+<hr>
+
+
 ### Elektrická kapacita.
 - **Značka: C**
 - **Jednotka: farad (F)**
@@ -365,6 +389,7 @@ E = intenzita elektrického pole (V/m)
     - [Elektřina](https://cs.wikipedia.org/wiki/Elekt%C5%99ina)
     - [Elektrická vodivost](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_vodivost)
     - [Výkon](https://cs.wikipedia.org/wiki/V%C3%BDkon)
+    - [Permitivita](https://cs.wikipedia.org/wiki/Permitivita)
     - [Elektrická kapacita](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_kapacita)
     - [Elektrická indukce](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_indukce)
     - [Dielektrikum](https://cs.wikipedia.org/wiki/Dielektrikum)
