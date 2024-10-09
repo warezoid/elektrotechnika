@@ -7,6 +7,7 @@ Třetí kapitola popisuje činnost, využití a další informace o klíčových
 - Obsah
     - [Zdroj](#zdroj)
     - [Spotřebič](#spotřebič)
+    - [Kondenzátor](#kondenzátor)
 - [Zdroje kapitoly](#zdroje-kapitoly)
 
 
