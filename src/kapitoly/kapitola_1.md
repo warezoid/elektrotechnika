@@ -379,6 +379,7 @@ E = intenzita elektrického pole (V/m)
 ### Izolanty.
 - Izolant je látka, která neobsahuje volné nosiče elektrického náboje, tudíž jsou elektricky nevodivé.
 - Izolanty lze nazývat dielektriky, ovšem tato dvě slova nejsou synonyma.
+- Každý izolant má limit voltů, které je schopný udržet.
 - Dielektrikum je typ izolantu, který je použit v kontextu elektrického pole a má schopnost se polarizovat, což ovlivňuje kapacitu a chování pole.
 - Vakuum neobsahuje žádné částice a proto je jediný izolant, který není dielektrikem.
 
@@ -419,6 +420,25 @@ E = intenzita elektrického pole (V/m)
     - Deformace drah elektronů:
         - V jednoduchých atomech, které nejsou dipóly (například atom vodíku), jsou dráhy elektronů symetrické.
         - Když se takový atom vloží do elektrického pole, dráhy elektronů se deformují směrem ke kladně nabité desce, čímž vzniká indukovaný dipól.
+
+<hr>
+
+
+### Magnetismus a magnetické pole
+- Hmota má několik vlastností, jako například hmotnost, náboj nebo spin.
+- Spin uplatňujeme především ve kvantové fyzice, a je to vlastnost, kterou má každá elementární částice.
+- Spin je malé magnetické pole, kolem každé částice, ale u protonu je jeho velikost zanedbatelná, proto nijak neovlivňuje výsledné magnetické pole.
+- Výsledné magnetické pole kolem atomu je tvořeno velikostí spinu a pohybem elektronu kolem protonu.
+
+- Pro většinu látek platí:
+    - Elektrony se pohybují kolem jádra (protony a neutrony) po několika orbitalách. 
+    - Jejich pohybem po několika orbitalách se magnetické pole vzniklé pohybujícími se elektrony vyruší.
+    - Na každé orbitale můžou být pouze elektrony opačného spinu tím se vyruší magnetické pole na stejných orbitalách.
+
+- Ne všechny látky, s magnetickým polem musí být magnetické. (tj. reagovat na magnet)
+- Aby byla látka magnetická nesmí magnetické pole jednotlivých atomů ukazovat všemi směry.
+- Skupinu atomů se stejným směrem magnetického pole lze nazvat doménou.
+- Domény mohou ukazovat různými směry ovšem pod působením silnějšího magnetického pole se domény usměrní a ukazují stejným směrem. Tím vzniknou pernamentní magnety.
 
 
 
