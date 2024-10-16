@@ -7,6 +7,12 @@ Druhá kapitola popisuje základní fyzikální zákony, které vysvětlují vzt
 - Obsah
     - [Ohmův zákon](#ohmův-zákon)
     - [Columbův zákon](#columbův-zákon)
+    - [Kirchhoffovy zákony](#kirchhoffovy-zákony)
+        - [První Kirchhoffův zákon](#první-kirchhoffův-zákon)
+        - [Druhý Kirchhoffův zákon](#druhý-kirchhoffův-zákon)
+    - [Zapojení odporů](#zapojení-odporů)
+        - [Sériové zapojení odporů](#sériové-zapojení-odporů)
+        - [Paralelní zapojení odporů](#paralelní-zapojení-odporů)
 - [Zdroje kapitoly](#zdroje-kapitoly)
 
 
@@ -122,7 +128,7 @@ $$
 
 - Níže je uvedený příklad paralelního zapojení odporů.
 
-![Sériové zapojení odporů](../img/ilustrace_6.png)
+![Paralelní zapojení odporů](../img/ilustrace_6.png)
 
 - Pro výpočet celkového odporu v elektrickém obvodu platí vztah:
 
