@@ -22,6 +22,7 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
     - [Elektrická kapacita](#elektrická-kapacita)
     - [Indukční pole](#indukční-pole)
     - [Izolanty](#izolanty)
+    - [Magnetismus a magnetické pole](#magnetismus-a-magnetické-pole)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -111,7 +112,7 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
 
 **Obraz elektrického pole**
 - Obraz elektrického pole je znázorněn pomocí siločar, které ukazují směr a charakter působení pole.
-- Siločáry začínají a končí na elektrických nábojích různých polarit.
+- Siločáry začínají a končí na elektrických nábojích různých polarit nebo vznikají na elektrickém náboji a pokračují do nekonečna.
 
 <br>
 
@@ -424,21 +425,40 @@ E = intenzita elektrického pole (V/m)
 <hr>
 
 
-### Magnetismus a magnetické pole
+### Magnetismus a magnetické pole.
 - Hmota má několik vlastností, jako například hmotnost, náboj nebo spin.
 - Spin uplatňujeme především ve kvantové fyzice, a je to vlastnost, kterou má každá elementární částice.
 - Spin je malé magnetické pole, kolem každé částice, ale u protonu je jeho velikost zanedbatelná, proto nijak neovlivňuje výsledné magnetické pole.
 - Výsledné magnetické pole kolem atomu je tvořeno velikostí spinu a pohybem elektronu kolem protonu.
+
+<br>
 
 - Pro většinu látek platí:
     - Elektrony se pohybují kolem jádra (protony a neutrony) po několika orbitalách. 
     - Jejich pohybem po několika orbitalách se magnetické pole vzniklé pohybujícími se elektrony vyruší.
     - Na každé orbitale můžou být pouze elektrony opačného spinu tím se vyruší magnetické pole na stejných orbitalách.
 
+<br>
+
 - Ne všechny látky, s magnetickým polem musí být magnetické. (tj. reagovat na magnet)
 - Aby byla látka magnetická nesmí magnetické pole jednotlivých atomů ukazovat všemi směry.
 - Skupinu atomů se stejným směrem magnetického pole lze nazvat doménou.
-- Domény mohou ukazovat různými směry ovšem pod působením silnějšího magnetického pole se domény usměrní a ukazují stejným směrem. Tím vzniknou pernamentní magnety.
+- Domény mohou ukazovat různými směry ovšem pod působením silnějšího magnetického pole se domény usměrní a ukazují stejným směrem. Tím vzniknou pernamentní magnety a zesílí se magnetické pole.
+- Magnetické materiály, které po odstranění z magnetického pole ztrácejí své magnetické vlastnosti, se nazývají magneticky měkké oceli.
+- Materiály, které i po vyjmutí z magnetického pole zůstávají magnetické, označujeme jako magneticky tvrdé oceli.
+- Některé materiály se po vložení do magnetického pole zmagnetizují, ale s opačnou polaritou než má původní pole, což vede k oslabení magnetického pole.
+
+<br>
+
+- Magnetické pole vzniká v okolí pohybujících se elektronů, tedy v přítomnosti elektrického proudu.
+- Magnetické pole je, stejně jako elektrické pole, znázorňováno siločárami. Čím blíže jsou siločáry u sebe, tím je magnetické pole silnější.
+- Na rozdíl od elektrických siločar jsou magnetické siločáry uzavřené.
+- Siločáry magnetického pole směřují ze severního pólu magnetu k jižnímu pólu. Na základě toho lze definovat:
+    - Severní pól je místo, odkud siločáry vystupují.
+    - Jižní pól je místo, kam siločáry vstupují.
+- Přirozené magnetické pole je homogenní, což znamená, že jeho intenzita je všude stejná.
+- Siločáry mají tendenci ve vertikálním směru zkracovat své trajektorie a v horizontálním směru se navzájem odpuzovat.
+- Póly opačné polarity se přitahují, zatímco stejné polarity se odpuzují.
 
 
 
