@@ -450,6 +450,7 @@ E = intenzita elektrického pole (V/m)
 
 <br>
 
+- Speciální teorie relativity umožňuje chápat vzájemné působení elektrických nábojů jako relativní pohled na magnetické působení elektrického náboje na pohybující se elektrický proud.
 - Magnetické pole vzniká v okolí pohybujících se elektronů, tedy v přítomnosti elektrického proudu.
 - Magnetické pole je, stejně jako elektrické pole, znázorňováno siločárami. Čím blíže jsou siločáry u sebe, tím je magnetické pole silnější.
 - Na rozdíl od elektrických siločar jsou magnetické siločáry uzavřené.
