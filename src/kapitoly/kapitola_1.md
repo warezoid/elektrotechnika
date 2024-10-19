@@ -23,6 +23,8 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
     - [Indukční pole](#indukční-pole)
     - [Izolanty](#izolanty)
     - [Magnetismus a magnetické pole](#magnetismus-a-magnetické-pole)
+    - [Magnetická indukce](#magnetická-indukce)
+    - [Magnetický tok](#magnetický-tok)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -461,6 +463,60 @@ E = intenzita elektrického pole (V/m)
 - Siločáry mají tendenci ve vertikálním směru zkracovat své trajektorie a v horizontálním směru se navzájem odpuzovat.
 - Póly opačné polarity se přitahují, zatímco stejné polarity se odpuzují.
 
+<hr>
+
+
+### Magnetická indukce.
+- **Značka: B**
+- **Jednotka: tesla (T)**
+
+<br>
+
+- Magnetická indukce popisuje velikost magnetické síly, která vzniká v magnetickém poli a působí na elektrický proud.
+- V elektrotechnice se hodnota magnetické indukce běžně pohybuje v jednotkách tesla. V současné době je lidstvo schopné vytvořit a využít magnetickou indukci o hodnotě až desítek tesla.
+- Magnetická indukce charakterizuje magnetické pole v jednom bodě a je vektorovou veličinou.
+- Směr působení magnetické síly je vždy kolmý na směr proudu elektrického náboje.
+
+<br>
+
+- Sílu, která je způsobena působením magnetického pole, které vzniklo proudem tekoucím ve vodiči jakéhokoliv tvaru, lze vypočítat pomocí Biot-Savartova zákona.
+- Magnetická indukce působí na pohybující se elektrický náboj v magnetickém poli, přičemž směr této síly je vždy kolmý na směr pohybu náboje.
+- Pro výpočet magnetické indukce lze použít následující vztah:
+
+$$
+B = \frac{F}{I \cdot l}
+$$
+
+```
+B = magnetická indukce (T)
+F = Lorentzova síla (N)
+I = velikost elektrického proudu (A)
+l = délka kolmého úseku, kterým náboj prochází přes magnetické pole (m)
+```
+
+<hr>
+
+
+### Magnetický tok.
+- **Značka: Φ**
+- **Jednotka: weber (Wb)**
+
+<br>
+
+- Magnetický tok vyjadřuje celkovou magnetickou indukci procházející určitou plochou, protože magnetická indukce popisuje magnetické pole pouze v jednom bodě.
+- Magnetický tok tak představuje součet magnetické indukce v celé ploše.
+- Magnetický tok lze vypočítat pomocí následujícího vzorce:
+
+$$
+Φ = B * S
+$$
+
+```
+Φ = magnetický tok (Wb)
+B = magnetická indukce (T)
+S = plocha (m²)
+```
+
 
 
 ## Zdroje kapitoly
@@ -483,3 +539,4 @@ E = intenzita elektrického pole (V/m)
     - [Elektrická kapacita](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_kapacita)
     - [Elektrická indukce](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_indukce)
     - [Dielektrikum](https://cs.wikipedia.org/wiki/Dielektrikum)
+    - [Magnetický tok](https://cs.wikipedia.org/wiki/Magnetick%C3%BD_tok)
