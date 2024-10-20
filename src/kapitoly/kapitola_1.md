@@ -463,6 +463,20 @@ E = intenzita elektrického pole (V/m)
 - Siločáry mají tendenci ve vertikálním směru zkracovat své trajektorie a v horizontálním směru se navzájem odpuzovat.
 - Póly opačné polarity se přitahují, zatímco stejné polarity se odpuzují.
 
+<br>
+- Na rozdíl od elektrického pole, kde stačí vložit elektrický náboj do elektrického pole, v magnetickém poli musí být náboj v pohybu, aby na něj působila síla.
+- Výslednou sílu, která působí na elektrický náboj získáme součtem magnetické síly a síly způsobené intenzitou elektrického pole a nazýváme ji Lorentzova síla.
+
+$$
+F = F_m + F_e
+$$
+
+```
+F = Lorentzova síla (N)
+F_m = magnetická síla (N)
+F_e = elektrická síla (N)
+```
+
 <hr>
 
 
@@ -516,6 +530,7 @@ $$
 B = magnetická indukce (T)
 S = plocha (m²)
 ```
+
 
 
 
