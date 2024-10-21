@@ -17,7 +17,7 @@ Třetí kapitola popisuje činnost, využití a další informace o klíčových
 ### Zdroj.
 **Schématické značení**
 
-![Schématické značení zdroje](../img/ilustrace_7.png)
+![Schématické značení zdroje](../../img/kapitola_3/ilustrace_7.png)
 
 - Elektrický proud teče z kladného pólu (+) k zápornému pólu (−).
 - Napětí je orientováno opačně. Ze záporného pólu (−) ke kladnému pólu (+).
@@ -34,7 +34,7 @@ Třetí kapitola popisuje činnost, využití a další informace o klíčových
 #### Kondenzátor.
 **Schématické značení**
 
-![Schématické značení kondenzátoru](../img/ilustrace_8.png)
+![Schématické značení kondenzátoru](../../img/kapitola_3/ilustrace_8.png)
 
 - Kondenzátor je pasivní součástka elektrického obvodu, která uchovává elektrický náboj.
 - Skládá se ze dvou vodivých destiček, které se navzájem nedotýkají.

@@ -21,10 +21,6 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
     - [Permitivita](#permitivita)
     - [Elektrická kapacita](#elektrická-kapacita)
     - [Indukční pole](#indukční-pole)
-    - [Izolanty](#izolanty)
-    - [Magnetismus a magnetické pole](#magnetismus-a-magnetické-pole)
-    - [Magnetická indukce](#magnetická-indukce)
-    - [Magnetický tok](#magnetický-tok)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -132,7 +128,7 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
 - Mezi dvěma bodovými náboji působí na testovací náboj různé síly v závislosti na jeho poloze, přičemž má každá síla jinou velikost a směr.
 - Výsledný směr je vypočítán součtem těchto sil.
 
-![Obraz elektrického pole](../img/ilustrace_1.png)
+![Obraz elektrického pole](../../img/kapitola_1/ilustrace_1.png)
 
 <hr>
 
@@ -152,7 +148,7 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
 - Intenzitu elektrického pole lze zakreslit jako vrstevnice (ekvipotenciály), které jsou vždy kolmé na siločáry.
 - Čím blíže jsou siločáry u sebe, tím bude působení elektrického pole větší. 
 
-![Obraz intenzity elektrického pole](../img/ilustrace_2.png)
+![Obraz intenzity elektrického pole](../../img/kapitola_1/ilustrace_2.png)
 
 <hr>
 
@@ -379,157 +375,11 @@ E = intenzita elektrického pole (V/m)
 <hr>
 
 
-### Izolanty.
-- Izolant je látka, která neobsahuje volné nosiče elektrického náboje, tudíž jsou elektricky nevodivé.
-- Izolanty lze nazývat dielektriky, ovšem tato dvě slova nejsou synonyma.
-- Každý izolant má limit voltů, které je schopný udržet.
-- Dielektrikum je typ izolantu, který je použit v kontextu elektrického pole a má schopnost se polarizovat, což ovlivňuje kapacitu a chování pole.
-- Vakuum neobsahuje žádné částice a proto je jediný izolant, který není dielektrikem.
-
-<br>
-
-- Atomy nebo molekuly schopné přenášet elektrický náboj vznikají tím, že jim přibude nebo ubude elektron. Tím vznikají ionty.
-- Roztoky obsahující ionty se nazývají elektrolyty.
-- Například destilovaná voda je elektricky nevodivá, tedy funguje jako dielektrikum.
-- Minerální voda však obsahuje minerály, které jsou schopny přenášet elektrický náboj.
-
-<br>
-
-**Polarizace dielektrika**
-- Polarizace dielektrika je proces, při kterém se elektricky neutrální částice vloží do elektrického pole, což ovlivňuje jejich chování.
-- Elektrický dipól vzniká tehdy, když je v molekule nerovnoměrně rozložen náboj, například kvůli nerovnoměrnému rozložení elektronové hustoty, aniž by to mělo vliv na celkovou elektrickou neutralitu molekuly.
-
-<br>
-
-- Díky polarizaci dielektrika vznikne na jedné straně pole převaha záporného náboje a na druhé straně převaha kladného náboje.
-- Tento proces závisí na materiálu a jeho permitivitě, což určuje, jak silně se molekuly natočí a jaké výsledné elektrické pole vznikne.
-
-<br>
-
-- Typickým příkladem dipólu jsou molekuly, které je mohou tvořit. Například molekula vody:
-    - Molekula vody je tvořena jedním atomem kyslíku a dvěma atomy vodíku.
-    - Kyslík má vyšší elektronegativitu než vodík, což znamená, že více přitahuje elektrony.
-    - Tato nerovnoměrná distribuce elektronů mezi kyslíkem a vodíkem vytváří dipól, kde je více záporného náboje soustředěno na kyslíku a více kladného náboje na vodíku.
-    - Molekula vody je tak přirozeným dipólem, který je citlivý na vnější elektrická pole.
 
 
-<br>
-
-- Existují dva hlavní způsoby, jak může polarizace dielektrika probíhat:
-    - Natočení dipólů v molekulách:
-        - V molekulách, jako je voda, se atomy natáčí v souladu s elektrickým polem, podle pravidla protiklady se přitahují.
-        - Tento jev nastává, když molekula již obsahuje stálý dipól, jako v případě molekuly vody.
-    
-    - Deformace drah elektronů:
-        - V jednoduchých atomech, které nejsou dipóly (například atom vodíku), jsou dráhy elektronů symetrické.
-        - Když se takový atom vloží do elektrického pole, dráhy elektronů se deformují směrem ke kladně nabité desce, čímž vzniká indukovaný dipól.
-
-<hr>
 
 
-### Magnetismus a magnetické pole.
-- Hmota má několik vlastností, jako například hmotnost, náboj nebo spin.
-- Spin uplatňujeme především ve kvantové fyzice, a je to vlastnost, kterou má každá elementární částice.
-- Spin je malé magnetické pole, kolem každé částice, ale u protonu je jeho velikost zanedbatelná, proto nijak neovlivňuje výsledné magnetické pole.
-- Výsledné magnetické pole kolem atomu je tvořeno velikostí spinu a pohybem elektronu kolem protonu.
 
-<br>
-
-- Pro většinu látek platí:
-    - Elektrony se pohybují kolem jádra (protony a neutrony) po několika orbitalách. 
-    - Jejich pohybem po několika orbitalách se magnetické pole vzniklé pohybujícími se elektrony vyruší.
-    - Na každé orbitale můžou být pouze elektrony opačného spinu tím se vyruší magnetické pole na stejných orbitalách.
-
-<br>
-
-- Ne všechny látky, s magnetickým polem musí být magnetické. (tj. reagovat na magnet)
-- Aby byla látka magnetická nesmí magnetické pole jednotlivých atomů ukazovat všemi směry.
-- Skupinu atomů se stejným směrem magnetického pole lze nazvat doménou.
-- Domény mohou ukazovat různými směry ovšem pod působením silnějšího magnetického pole se domény usměrní a ukazují stejným směrem. Tím vzniknou pernamentní magnety a zesílí se magnetické pole.
-- Magnetické materiály, které po odstranění z magnetického pole ztrácejí své magnetické vlastnosti, se nazývají magneticky měkké oceli.
-- Materiály, které i po vyjmutí z magnetického pole zůstávají magnetické, označujeme jako magneticky tvrdé oceli.
-- Některé materiály se po vložení do magnetického pole zmagnetizují, ale s opačnou polaritou než má původní pole, což vede k oslabení magnetického pole.
-
-<br>
-
-- Speciální teorie relativity umožňuje chápat vzájemné působení elektrických nábojů jako relativní pohled na magnetické působení elektrického náboje na pohybující se elektrický proud.
-- Magnetické pole vzniká v okolí pohybujících se elektronů, tedy v přítomnosti elektrického proudu.
-- Magnetické pole je, stejně jako elektrické pole, znázorňováno siločárami. Čím blíže jsou siločáry u sebe, tím je magnetické pole silnější.
-- Na rozdíl od elektrických siločar jsou magnetické siločáry uzavřené.
-- Siločáry magnetického pole směřují ze severního pólu magnetu k jižnímu pólu. Na základě toho lze definovat:
-    - Severní pól je místo, odkud siločáry vystupují.
-    - Jižní pól je místo, kam siločáry vstupují.
-- Přirozené magnetické pole je homogenní, což znamená, že jeho intenzita je všude stejná.
-- Siločáry mají tendenci ve vertikálním směru zkracovat své trajektorie a v horizontálním směru se navzájem odpuzovat.
-- Póly opačné polarity se přitahují, zatímco stejné polarity se odpuzují.
-
-<br>
-- Na rozdíl od elektrického pole, kde stačí vložit elektrický náboj do elektrického pole, v magnetickém poli musí být náboj v pohybu, aby na něj působila síla.
-- Výslednou sílu, která působí na elektrický náboj získáme součtem magnetické síly a síly způsobené intenzitou elektrického pole a nazýváme ji Lorentzova síla.
-
-$$
-F = F_m + F_e
-$$
-
-```
-F = Lorentzova síla (N)
-F_m = magnetická síla (N)
-F_e = elektrická síla (N)
-```
-
-<hr>
-
-
-### Magnetická indukce.
-- **Značka: B**
-- **Jednotka: tesla (T)**
-
-<br>
-
-- Magnetická indukce popisuje velikost magnetické síly, která vzniká v magnetickém poli a působí na elektrický proud.
-- V elektrotechnice se hodnota magnetické indukce běžně pohybuje v jednotkách tesla. V současné době je lidstvo schopné vytvořit a využít magnetickou indukci o hodnotě až desítek tesla.
-- Magnetická indukce charakterizuje magnetické pole v jednom bodě a je vektorovou veličinou.
-- Směr působení magnetické síly je vždy kolmý na směr proudu elektrického náboje.
-
-<br>
-
-- Sílu, která je způsobena působením magnetického pole, které vzniklo proudem tekoucím ve vodiči jakéhokoliv tvaru, lze vypočítat pomocí Biot-Savartova zákona.
-- Magnetická indukce působí na pohybující se elektrický náboj v magnetickém poli, přičemž směr této síly je vždy kolmý na směr pohybu náboje.
-- Pro výpočet magnetické indukce lze použít následující vztah:
-
-$$
-B = \frac{F}{I \cdot l}
-$$
-
-```
-B = magnetická indukce (T)
-F = Lorentzova síla (N)
-I = velikost elektrického proudu (A)
-l = délka kolmého úseku, kterým náboj prochází přes magnetické pole (m)
-```
-
-<hr>
-
-
-### Magnetický tok.
-- **Značka: Φ**
-- **Jednotka: weber (Wb)**
-
-<br>
-
-- Magnetický tok vyjadřuje celkovou magnetickou indukci procházející určitou plochou, protože magnetická indukce popisuje magnetické pole pouze v jednom bodě.
-- Magnetický tok tak představuje součet magnetické indukce v celé ploše.
-- Magnetický tok lze vypočítat pomocí následujícího vzorce:
-
-$$
-Φ = B * S
-$$
-
-```
-Φ = magnetický tok (Wb)
-B = magnetická indukce (T)
-S = plocha (m²)
-```
 
 
 

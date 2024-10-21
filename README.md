@@ -19,9 +19,15 @@ Tato skripta, včetně vlastní grafiky, jsou licencována pod licencí MIT. Pln
 ## Kapitoly
 Sekce kapitoly slouží k přehlednější orientaci a navigaci ve skriptech.
 
-- [Kapitola 1 - Pojmy a veličiny](./src/kapitoly/kapitola_1.md)
-- [Kapitola 2 - Zákony](./src/kapitoly/kapitola_2.md)
-- [Kapitola 3 - Komponenty elektrického obvodu](./src/kapitoly/kapitola_3.md)
+- Kapitola 1 - Pojmy a veličiny
+    - [Podkapitola 1 - elektrické pojmy a veličiny](./src/kapitoly/kapitola_1/podkapitola_1.md)
+    - [Podkapitola 2 - izolanty](./src/kapitoly/kapitola_1/podkapitola_2.md)
+    - [Podkapitola 3 - magnetické pojmy a veličiny](./src/kapitoly/kapitola_1/podkapitola_3.md)
+- Kapitola 2 - Zákony
+    - [Podkapitola 1 - zákony](./src/kapitoly/kapitola_2/podkapitola_1.md)
+    - [Podkapitola 2 - zapojení odporů](./src/kapitoly/kapitola_2/podkapitola_2.md)
+    - [Podkapitola 3 - pravidla ruky](./src/kapitoly/kapitola_2/podkapitola_3.md)
+- [Kapitola 3 - Komponenty elektrického obvodu](./src/kapitoly/kapitola_3/podkapitola_1.md)
 
 
 
