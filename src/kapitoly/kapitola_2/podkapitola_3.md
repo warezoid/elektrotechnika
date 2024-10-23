@@ -1,4 +1,4 @@
-<div style="display: flex; width: 100%; justify-content: space-between;">
+<div style="display: flex; width: 100vw; justify-content: space-between;">
   <a href="./podkapitola_2.md"><< Zapojení odporů</a>
   <a href="../kapitola_3/podkapitola_1.md">--- >></a>
 </div>

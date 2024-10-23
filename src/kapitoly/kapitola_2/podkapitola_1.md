@@ -1,4 +1,4 @@
-<div style="display: flex; width: 100%; justify-content: space-between;">
+<div style="display: flex; width: 100vw; justify-content: space-between;">
   <a href="../kapitola_1/podkapitola_3.md"><< Magnetismus</a>
   <a href="./podkapitola_2.md">Zapojení odporů >></a>
 </div>

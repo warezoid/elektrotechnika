@@ -1,4 +1,4 @@
-<div style="display: flex; width: 100%; justify-content: space-between;">
+<div style="display: flex; width: 100vw; justify-content: space-between;">
   <a href="./podkapitola_1.md"><< Fyzikální zákony</a>
   <a href="./podkapitola_3.md">Základní pravidla >></a>
 </div>
