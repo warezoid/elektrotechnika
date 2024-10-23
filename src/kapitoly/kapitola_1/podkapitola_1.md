@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; width: 100%; justify-content: space-between;">
   <a href="../../../README.md"><< README</a>
   <a href="./podkapitola_2.md">Izolanty >></a>
 </div>
@@ -42,7 +42,7 @@ Tato kapitola se zaměřuje na základní fyzikální veličiny a pojmy, které 
 
 
 
-### Síla.
+### Síla
 - **Značka: F**
 - **Jednotky: newton (N)**
 
@@ -57,7 +57,7 @@ Tato kapitola se zaměřuje na základní fyzikální veličiny a pojmy, které 
 
 
 
-### Energie a práce.
+### Energie a práce
 - Práce je působení síly na těleso po určité dráze.
 - Energií lze chápat jako schopnost vykonat práci. Nelze ji vytvořit ani zničit.
 - Ve vztahu mezi energií a prací je práce stav a energie děj.
@@ -66,7 +66,7 @@ Tato kapitola se zaměřuje na základní fyzikální veličiny a pojmy, které 
 
 
 
-### Elektrický náboj.
+### Elektrický náboj
 - **Značka: Q**
 - **Jednotky: coulomb (C), ampérsekunda (As), miliampérhodina (mAh)**
 
@@ -91,7 +91,7 @@ Tato kapitola se zaměřuje na základní fyzikální veličiny a pojmy, které 
 
 
 
-### Elektrický proud.
+### Elektrický proud
 - **Značka: I**
 - **Jednotka: ampér (A)**
 
@@ -106,7 +106,7 @@ Tato kapitola se zaměřuje na základní fyzikální veličiny a pojmy, které 
 
 
 
-### Elektrický odpor.
+### Elektrický odpor
 - **Značka: R**
 - **Jednotka: ohm (&#937;)**
 
@@ -130,7 +130,7 @@ Tato kapitola se zaměřuje na základní fyzikální veličiny a pojmy, které 
 
 
 
-### Elektrické pole.
+### Elektrické pole
 - Elektrické pole je oblast kolem nabitého tělesa nebo částice, ve které působí elektrická síla na jiná nabitá tělesa nebo částice.
 
 <br>
@@ -161,7 +161,7 @@ Tato kapitola se zaměřuje na základní fyzikální veličiny a pojmy, které 
 
 
 
-### Intenzita elektrického pole.
+### Intenzita elektrického pole
 - **Značka: E**
 - **Jednotka: volt na metr (V/m), newton na coulomb (N/C)**
 
@@ -184,7 +184,7 @@ Tato kapitola se zaměřuje na základní fyzikální veličiny a pojmy, které 
 
 
 
-### Elektrický potenciál.
+### Elektrický potenciál
 - **Značka: φ**
 - **Jednotka: volt (V)**
 
@@ -199,7 +199,7 @@ Tato kapitola se zaměřuje na základní fyzikální veličiny a pojmy, které 
 
 
 
-### Elektrické napětí.
+### Elektrické napětí
 - **Značka: U**
 - **Jednotka: volt (V)**
 
@@ -240,7 +240,7 @@ m = metr (dráha)
 
 
 
-### Elektřina.
+### Elektřina
 - Elektřina je souhrn projevů elektrického pole a elektrodynamických jevů.
 - Je to vlastnost hmoty, která zahrnuje všechny jevy spojené s elektrickým nábojem a jeho interakcí s elektrickým a magnetickým polem.
 
@@ -248,7 +248,7 @@ m = metr (dráha)
 
 
 
-### Elektrická vodivost.
+### Elektrická vodivost
 - **Značka: G**
 - **Jednotka: siemens (S)**
 
@@ -261,7 +261,7 @@ m = metr (dráha)
 
 
 
-### Úbytek napětí.
+### Úbytek napětí
 - **Značka: ΔU**
 - **Jednotka: volt (V)**
 
@@ -283,7 +283,7 @@ $$
 
 
 
-### Výkon.
+### Výkon
 - **Značka: P**
 - **Jednotka: watt (W)**
 
@@ -329,7 +329,7 @@ m = metr (dráha)
 
 
 
-### Permitivita.
+### Permitivita
 - **Značka: ε**
 - **Jednotka: farad na metr (F/m)**
 
@@ -353,7 +353,7 @@ $$
 
 
 
-### Elektrická kapacita.
+### Elektrická kapacita
 - **Značka: C**
 - **Jednotka: farad (F)**
 
@@ -394,7 +394,7 @@ d = vzdálenost mezi deskami (m)
 
 
 
-### Indukční pole.
+### Indukční pole
 - **Značka: D**
 - **Jednotka: coulomb na metr čtvereční (C/m²)**
 

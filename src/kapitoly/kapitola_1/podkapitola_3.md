@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; width: 100%; justify-content: space-between;">
   <a href="./podkapitola_2.md"><< Izolanty</a>
-  <a href="../kapitola_2/podkapitola_1.md">Fyzikální zákony >></a>
+  <a href="../kapitola_2/podkapitola_1.md">Základní zákony >></a>
 </div>
 
 
@@ -25,7 +25,11 @@ Tato kapitola se soustředí na základní fyzikální veličiny a pojmy nezbytn
 
 
 
-### Magnetismus a magnetické pole.
+## Magnetismus
+
+
+
+### Magnetismus a magnetické pole
 - Hmota má několik vlastností, jako například hmotnost, náboj nebo spin.
 - Spin uplatňujeme především ve kvantové fyzice, a je to vlastnost, kterou má každá elementární částice.
 - Spin je malé magnetické pole, kolem každé částice, ale u protonu je jeho velikost zanedbatelná, proto nijak neovlivňuje výsledné magnetické pole.
@@ -80,7 +84,7 @@ F_e = elektrická síla (N)
 
 
 
-### Magnetická indukce.
+### Magnetická indukce
 - **Značka: B**
 - **Jednotka: tesla (T)**
 
@@ -112,7 +116,7 @@ l = délka kolmého úseku, kterým náboj prochází přes magnetické pole (m)
 
 
 
-### Magnetický tok.
+### Magnetický tok
 - **Značka: Φ**
 - **Jednotka: weber (Wb)**
 

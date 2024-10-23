@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; width: 100%; justify-content: space-between;">
   <a href="./podkapitola_1.md"><< Elektrické pojmy a veličiny</a>
   <a href="./podkapitola_3.md">Magnetismus >></a>
 </div>
@@ -23,7 +23,7 @@ Tato kapitola se soustředí na základní fyzikální veličiny a pojmy nezbytn
 
 
 
-### Izolanty.
+## Izolanty
 - Izolant je látka, která neobsahuje volné nosiče elektrického náboje, tudíž jsou elektricky nevodivé.
 - Izolanty lze nazývat dielektriky, ovšem tato dvě slova nejsou synonyma.
 - Každý izolant má limit voltů, které je schopný udržet.

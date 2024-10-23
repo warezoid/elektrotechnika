@@ -1,7 +1,32 @@
+<div style="display: flex; width: 100%; justify-content: space-between;">
+  <a href="./podkapitola_2.md"><< Zapojení odporů</a>
+  <a href="../kapitola_3/podkapitola_1.md">--- >></a>
+</div>
+
+
+
+
+
+# Zákonitosti a vztahy - Základní pravidla
+Druhá kapitola se zaměřuje na základní fyzikální vztahy a zákonitosti, které vysvětlují interakce mezi fyzikálními veličinami, jejich chováním a dalšími principy elektrotechniky a magnetismu. Tato podkapitola se konkrétně soustředí na základní pravidla elektrotechniky a magnetismu.
+
+
+
+
+
+## Obsah kapitoly
 - Obsah
     - [Ampérovo pravidlo pravé ruky](#ampérovo-pravidlo-pravé-ruky)
     - [Flemingovo pravidlo levé ruky](#flemingovo-pravidlo-levé-ruky)
 - [Zdroje kapitoly](#zdroje-kapitoly)
+
+
+
+
+
+## Základní pravidla
+
+
 
 ### Ampérovo pravidlo pravé ruky.
 - Uchopíme-li vodič, kterým prochází elektrický proud, tak aby palec směřoval ve směru proudu, pak prsty ukazují směr magnetického pole kolem vodiče.
@@ -23,9 +48,26 @@
     - Prsty ukazují směr proudu ve vinutí, palec určuje směr magnetického pole.
 - Uvnitř cívky vzniká silné magnetické pole, díky čemuž se cívka, kterou protéká proud, chová jako magnet.
 
-<hr>
+---
+
 
 
 ### Flemingovo pravidlo levé ruky.
 - Pokud do magnetického pole vložíme levou ruku tak, aby siločáry magnetického pole vstupovaly do dlaně a prsty ukazovaly směr proudu, pak palec ukazuje směr působení síly.
 - Toto pravidlo umožňuje určit směr síly působící na vodič s proudem v magnetickém poli.
+
+---
+
+
+
+
+
+## Zdroje kapitoly
+- [Youtube](https://youtube.com/)
+    - [Názorná elektrotechnika](https://youtube.com/@nazornaelektrotechnika)
+        - [Základy Elektrotechniky](https://youtube.com/playlist?list=PL3r1xGSQfP9TBwvTqYEf6E-L9duHQbnir)
+    - [ElectroBOOM](https://www.youtube.com/@ElectroBOOM)
+
+- [ChatGPT](https://chatgpt.com/)
+
+- [Wikipedie](https://wikipedia.org)
