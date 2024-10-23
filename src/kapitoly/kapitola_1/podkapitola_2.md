@@ -1,7 +1,27 @@
+<div style="display: flex; justify-content: space-between;">
+  <a href="./podkapitola_1.md"><< Elektrické pojmy a veličiny</a>
+  <a href="./podkapitola_3.md">Magnetismus >></a>
+</div>
+
+
+
+
+
+# Pojmy a veličiny – Izolanty
+Tato kapitola se soustředí na základní fyzikální veličiny a pojmy nezbytné pro pochopení elektrotechniky. V rámci této podkapitoly se konkrétně zaměříme na izolanty.
+
+
+
+
+
 ## Obsah kapitoly
 - Obsah
     - [Izolanty](#izolanty)
 - [Zdroje](#zdroje-kapitoly)
+
+
+
+
 
 ### Izolanty.
 - Izolant je látka, která neobsahuje volné nosiče elektrického náboje, tudíž jsou elektricky nevodivé.
@@ -48,4 +68,19 @@
         - V jednoduchých atomech, které nejsou dipóly (například atom vodíku), jsou dráhy elektronů symetrické.
         - Když se takový atom vloží do elektrického pole, dráhy elektronů se deformují směrem ke kladně nabité desce, čímž vzniká indukovaný dipól.
 
-<hr>
+---
+
+
+
+
+
+## Zdroje kapitoly
+- [Youtube](https://youtube.com/)
+    - [Názorná elektrotechnika](https://youtube.com/@nazornaelektrotechnika)
+        - [Základy Elektrotechniky](https://youtube.com/playlist?list=PL3r1xGSQfP9TBwvTqYEf6E-L9duHQbnir)
+    - [ElectroBOOM](https://www.youtube.com/@ElectroBOOM)
+
+- [ChatGPT](https://chatgpt.com/)
+
+- [Wikipedie](https://wikipedia.org)
+    - [Dielektrikum](https://cs.wikipedia.org/wiki/Dielektrikum)

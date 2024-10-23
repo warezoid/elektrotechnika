@@ -1,5 +1,16 @@
-# Kapitola 1
-Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, které je potřeba znát, při snaze o pochopení elektrotechniky.
+<div style="display: flex; justify-content: space-between;">
+  <a href="../../../README.md"><< README</a>
+  <a href="./podkapitola_2.md">Izolanty >></a>
+</div>
+
+
+
+
+
+# Pojmy a veličiny – Elektrické pojmy a veličiny
+Tato kapitola se zaměřuje na základní fyzikální veličiny a pojmy, které jsou nezbytné pro porozumění elektrotechniky. Konkrétně se tato podkapitola soustředí na elektrické pojmy a veličiny, které hrají klíčovou roli v teoretickém i praktickém pochopení elektrických jevů.
+
+
 
 
 
@@ -25,7 +36,11 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
 
 
 
-## Pojmy a veličiny
+
+
+## Elektrické pojmy a veličiny
+
+
 
 ### Síla.
 - **Značka: F**
@@ -37,7 +52,9 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
 - Projevuje se statickými a dynamickými účinky.
     - Statický účinek: deformace těles.
     - Dynamický účinek: změna pohybového stavu.
-<hr>
+
+---
+
 
 
 ### Energie a práce.
@@ -45,7 +62,8 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
 - Energií lze chápat jako schopnost vykonat práci. Nelze ji vytvořit ani zničit.
 - Ve vztahu mezi energií a prací je práce stav a energie děj.
 
-<hr>
+---
+
 
 
 ### Elektrický náboj.
@@ -62,12 +80,15 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
     - Různé polarity se přitahují.
 - V přírodě je elektrický náboj obvykle vyrovnaný (existuje stejný počet kladných a záporných nábojů), což zajišťuje elektrickou neutralitu. 
 
+<br>
+
 **Vztahy mezi jednotkami**
 
 - Ampérhodina (Ah): 1 Ah = 3600 C
 - Miliampérhodina (mAh): 0.001 Ah
 
-<hr>
+---
+
 
 
 ### Elektrický proud.
@@ -81,7 +102,8 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
     - Pokud jsou 2 nakonečně dlouhé vodiče od sebe ve vzdálenosti 1 metr, tak se buď přitahují nebo odpuzují (podle nabití nábojů) silou 2.7E-7 N.
 - Kolem všech pohybujících se elektrických nábojů vzniká zároveň magnetické pole.
 
-<hr>
+---
+
 
 
 ### Elektrický odpor.
@@ -98,15 +120,20 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
     - Ve vodičích roste.
     - V polovodičích klesá.
 
+<br>
+
 **Vztahy mezi jednotkami**
 
 - &#937; = V / A
 
-<hr>
+---
+
 
 
 ### Elektrické pole.
 - Elektrické pole je oblast kolem nabitého tělesa nebo částice, ve které působí elektrická síla na jiná nabitá tělesa nebo částice.
+
+<br>
 
 **Obraz elektrického pole**
 - Obraz elektrického pole je znázorněn pomocí siločar, které ukazují směr a charakter působení pole.
@@ -130,7 +157,8 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
 
 ![Obraz elektrického pole](../../img/kapitola_1/ilustrace_1.png)
 
-<hr>
+---
+
 
 
 ### Intenzita elektrického pole.
@@ -144,13 +172,16 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
 - Tato schopnost se projeví pouze pokud do pole vložíme elektrický náboj.
 - Čím blíže jsme bodovému náboji, tím je intenzita elektrického pole větší, tím pádem bude na elektrický náboj působit větší síla.
 
+<br>
+
 **Obraz intenzity elektrického pole**
 - Intenzitu elektrického pole lze zakreslit jako vrstevnice (ekvipotenciály), které jsou vždy kolmé na siločáry.
 - Čím blíže jsou siločáry u sebe, tím bude působení elektrického pole větší. 
 
 ![Obraz intenzity elektrického pole](../../img/kapitola_1/ilustrace_2.png)
 
-<hr>
+---
+
 
 
 ### Elektrický potenciál.
@@ -164,7 +195,8 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
 - Popisuje potenciální (polohovou) energii elektrického náboje v elektrickém poli.
 - Elektrický potenciál je skalární veličina. (nemá směr).
 
-<hr>
+---
+
 
 
 ### Elektrické napětí.
@@ -177,6 +209,8 @@ Kapitola pojmy a veličiny popisuje základní fyzikální veličiny a pojmy, kt
 - Napětí může nabývat kladných nebo záporných hodnot, v závislosti na tom, zda se jedná o spotřebu nebo zdroj energie.
 - Spotřeba (např. při pohybu nábojů) představuje samovolný pohyb nábojů, zatímco tlačení náboje proti intenzitě elektrického pole vyžaduje dodání napětí.
 - Napětí je úzce svázáno s energií.
+
+<br>
 
 **Odvození voltu**
 - Jednotka volt (V) není základní jednotkou v systému SI, a proto musí být odvozena z jiných základních jednotek SI.
@@ -202,14 +236,16 @@ N = newton (síla)
 m = metr (dráha)
 ```
 
-<hr>
+---
+
 
 
 ### Elektřina.
 - Elektřina je souhrn projevů elektrického pole a elektrodynamických jevů.
 - Je to vlastnost hmoty, která zahrnuje všechny jevy spojené s elektrickým nábojem a jeho interakcí s elektrickým a magnetickým polem.
 
-<hr>
+---
+
 
 
 ### Elektrická vodivost.
@@ -221,7 +257,8 @@ m = metr (dráha)
 - Hodnota elektrické vodivosti závisí na vlastnostech materiálu, průřezu vodiče, jeho délce a teplotě.
 - Elektrická vodivost je definována jako převrácená hodnota elektrického odporu.
 
-<hr>
+---
+
 
 
 ### Úbytek napětí.
@@ -242,7 +279,8 @@ $$
 - Tím pádem platí že:
     - Vyšší napětí umožňuje vykonat stejné množství práce při nižším elektrickém proudu, což vede k menším ztrátám.
 
-<hr>
+---
+
 
 
 ### Výkon.
@@ -263,6 +301,8 @@ $$
 $$
 \Delta P = \Delta U \cdot I
 $$
+
+<br>
 
 **Odvození wattu**
 - Jednotka watt (W) není základní jednotkou v systému SI, a proto musí být odvozena z jiných základních jednotek SI.
@@ -285,7 +325,8 @@ N = newton (síla)
 m = metr (dráha)
 ```
 
-<hr>
+---
+
 
 
 ### Permitivita.
@@ -308,7 +349,8 @@ $$
 \varepsilon_0 = 8.854 \cdot 10^{-12} \, \mathrm{F/m}
 $$
 
-<hr>
+---
+
 
 
 ### Elektrická kapacita.
@@ -348,7 +390,8 @@ S = obsah (plocha) desek kondenzátoru (m²)
 d = vzdálenost mezi deskami (m)
 ```
 
-<hr>
+---
+
 
 
 ### Indukční pole.
@@ -372,13 +415,7 @@ E = intenzita elektrického pole (V/m)
 ε = permitivita prostředí (F/m)
 ```
 
-<hr>
-
-
-
-
-
-
+---
 
 
 
@@ -388,6 +425,10 @@ E = intenzita elektrického pole (V/m)
 - [Youtube](https://youtube.com/)
     - [Názorná elektrotechnika](https://youtube.com/@nazornaelektrotechnika)
         - [Základy Elektrotechniky](https://youtube.com/playlist?list=PL3r1xGSQfP9TBwvTqYEf6E-L9duHQbnir)
+    - [ElectroBOOM](https://www.youtube.com/@ElectroBOOM)
+
+- [ChatGPT](https://chatgpt.com/)
+
 - [Wikipedie](https://wikipedia.org)
     - [Síla](https://cs.wikipedia.org/wiki/S%C3%ADla)
     - [Práce](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_pr%C3%A1ce)
@@ -403,5 +444,3 @@ E = intenzita elektrického pole (V/m)
     - [Permitivita](https://cs.wikipedia.org/wiki/Permitivita)
     - [Elektrická kapacita](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_kapacita)
     - [Elektrická indukce](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_indukce)
-    - [Dielektrikum](https://cs.wikipedia.org/wiki/Dielektrikum)
-    - [Magnetický tok](https://cs.wikipedia.org/wiki/Magnetick%C3%BD_tok)

@@ -1,9 +1,29 @@
+<div style="display: flex; justify-content: space-between;">
+  <a href="./podkapitola_2.md"><< Izolanty</a>
+  <a href="../kapitola_2/podkapitola_1.md">Fyzikální zákony >></a>
+</div>
+
+
+
+
+
+# Pojmy a veličiny – Magnetismus
+Tato kapitola se soustředí na základní fyzikální veličiny a pojmy nezbytné pro pochopení elektrotechniky. Konkrétně se podkapitola zaměřuje na magnetismus, magnetické pole a s nimi spojené veličiny.
+
+
+
+
+
 ## Obsah kapitoly
 - Obsah
     - [Magnetismus a magnetické pole](#magnetismus-a-magnetické-pole)
     - [Magnetická indukce](#magnetická-indukce)
     - [Magnetický tok](#magnetický-tok)
 - [Zdroje](#zdroje-kapitoly)
+
+
+
+
 
 ### Magnetismus a magnetické pole.
 - Hmota má několik vlastností, jako například hmotnost, náboj nebo spin.
@@ -42,6 +62,7 @@
 - Póly opačné polarity se přitahují, zatímco stejné polarity se odpuzují.
 
 <br>
+
 - Na rozdíl od elektrického pole, kde stačí vložit elektrický náboj do elektrického pole, v magnetickém poli musí být náboj v pohybu, aby na něj působila síla.
 - Výslednou sílu, která působí na elektrický náboj získáme součtem magnetické síly a síly způsobené intenzitou elektrického pole a nazýváme ji Lorentzova síla.
 
@@ -55,7 +76,9 @@ F_m = magnetická síla (N)
 F_e = elektrická síla (N)
 ```
 
-<hr>
+---
+
+
 
 ### Magnetická indukce.
 - **Značka: B**
@@ -85,7 +108,8 @@ I = velikost elektrického proudu (A)
 l = délka kolmého úseku, kterým náboj prochází přes magnetické pole (m)
 ```
 
-<hr>
+---
+
 
 
 ### Magnetický tok.
@@ -107,3 +131,20 @@ $$
 B = magnetická indukce (T)
 S = plocha (m²)
 ```
+
+---
+
+
+
+
+
+## Zdroje kapitoly
+- [Youtube](https://youtube.com/)
+    - [Názorná elektrotechnika](https://youtube.com/@nazornaelektrotechnika)
+        - [Základy Elektrotechniky](https://youtube.com/playlist?list=PL3r1xGSQfP9TBwvTqYEf6E-L9duHQbnir)
+    - [ElectroBOOM](https://www.youtube.com/@ElectroBOOM)
+
+- [ChatGPT](https://chatgpt.com/)
+
+- [Wikipedie](https://wikipedia.org)
+    - [Magnetický tok](https://cs.wikipedia.org/wiki/Magnetick%C3%BD_tok)
