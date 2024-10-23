@@ -1,7 +1,7 @@
-<div style="display: flex; width: 100vw; justify-content: space-between;">
-  <a href="../../../README.md"><< README</a>
-  <a href="./podkapitola_2.md">Izolanty >></a>
-</div>
+<span>
+    <a href="../../../README.md" style="float: left;"><< README</a>
+    <a href="./podkapitola_2.md" style="float: right;">Izolanty >></a>
+</span>
 
 
 
