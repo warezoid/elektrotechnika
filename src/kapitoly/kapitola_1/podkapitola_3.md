@@ -1,4 +1,5 @@
 [:arrow_left: Izolanty](./podkapitola_2.md)
+
 [:arrow_right: Základní zákony](../kapitola_2/podkapitola_1.md)
 
 
@@ -158,4 +159,5 @@ S = plocha (m²)
 
 
 [:arrow_left: Izolanty](./podkapitola_2.md)
+
 [:arrow_right: Základní zákony](../kapitola_2/podkapitola_1.md)

@@ -1,4 +1,5 @@
 [:arrow_left: Základní zákony](./podkapitola_1.md)
+
 [:arrow_right: Základní pravidla](./podkapitola_3.md)
 
 
@@ -87,4 +88,5 @@ $$
 
 
 [:arrow_left: Základní zákony](./podkapitola_1.md)
+
 [:arrow_right: Základní pravidla](./podkapitola_3.md)

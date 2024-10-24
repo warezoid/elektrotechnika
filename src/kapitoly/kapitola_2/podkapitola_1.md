@@ -1,4 +1,5 @@
 [:arrow_left: Magnetismus](../kapitola_1/podkapitola_3.md)
+
 [:arrow_right: Zapojení odporů](./podkapitola_2.md)
 
 
@@ -143,4 +144,5 @@ $$
 
 
 [:arrow_left: Magnetismus](../kapitola_1/podkapitola_3.md)
+
 [:arrow_right: Zapojení odporů](./podkapitola_2.md)

@@ -1,4 +1,5 @@
 [:arrow_left: Elektrické pojmy a veličiny](./podkapitola_1.md)
+
 [:arrow_right: Magnetismus](./podkapitola_3.md)
 
 
@@ -90,4 +91,5 @@ Tato kapitola se soustředí na základní fyzikální veličiny a pojmy nezbytn
 
 
 [:arrow_left: Elektrické pojmy a veličiny](./podkapitola_1.md)
+
 [:arrow_right: Magnetismus](./podkapitola_3.md)

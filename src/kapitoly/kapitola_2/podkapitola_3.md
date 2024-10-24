@@ -1,4 +1,5 @@
 [:arrow_left: Zapojení odporů](./podkapitola_2.md)
+
 [:arrow_right: Komponenty elektrického obvodu](../kapitola_3/podkapitola_1.md)
 
 
@@ -77,4 +78,5 @@ Druhá kapitola se zaměřuje na základní fyzikální vztahy a zákonitosti, k
 
 
 [:arrow_left: Zapojení odporů](./podkapitola_2.md)
+
 [:arrow_right: Komponenty elektrického obvodu](../kapitola_3/podkapitola_1.md)
