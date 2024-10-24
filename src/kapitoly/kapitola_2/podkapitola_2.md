@@ -1,7 +1,5 @@
-<div style="display: flex; width: 100vw; justify-content: space-between;">
-  <a href="./podkapitola_1.md"><< Fyzikální zákony</a>
-  <a href="./podkapitola_3.md">Základní pravidla >></a>
-</div>
+[:arrow_left: Základní zákony](./podkapitola_1.md)
+[:arrow_right: Základní pravidla](./podkapitola_3.md)
 
 
 
@@ -81,3 +79,12 @@ $$
 - [ChatGPT](https://chatgpt.com/)
 
 - [Wikipedie](https://wikipedia.org)
+
+---
+
+
+
+
+
+[:arrow_left: Základní zákony](./podkapitola_1.md)
+[:arrow_right: Základní pravidla](./podkapitola_3.md)

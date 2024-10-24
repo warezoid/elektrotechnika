@@ -51,8 +51,10 @@ Zdroje lze chápat jako prostředky, z nichž jsem během svého samostudia čer
 
 - **Literatura**
     - Wikipedie: [wikipedia.org](https://wikipedia.org)
+
 - **Naučná videa**
     - Youtube: [youtube.com](https://youtube.com)
+    
 - **Nástroje**
     - ChatGPT: [chatgpt.com](https://chatgpt.com)
     - A Internet jako takový.

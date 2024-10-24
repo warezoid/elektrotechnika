@@ -1,7 +1,5 @@
-<div style="display: flex; width: 100vw; justify-content: space-between;">
-  <a href="./podkapitola_1.md"><< Elektrické pojmy a veličiny</a>
-  <a href="./podkapitola_3.md">Magnetismus >></a>
-</div>
+[:arrow_left: Elektrické pojmy a veličiny](./podkapitola_1.md)
+[:arrow_right: Magnetismus](./podkapitola_3.md)
 
 
 
@@ -84,3 +82,12 @@ Tato kapitola se soustředí na základní fyzikální veličiny a pojmy nezbytn
 
 - [Wikipedie](https://wikipedia.org)
     - [Dielektrikum](https://cs.wikipedia.org/wiki/Dielektrikum)
+
+---
+
+
+
+
+
+[:arrow_left: Elektrické pojmy a veličiny](./podkapitola_1.md)
+[:arrow_right: Magnetismus](./podkapitola_3.md)

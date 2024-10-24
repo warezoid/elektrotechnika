@@ -1,7 +1,5 @@
-<div style="display: flex; width: 100vw; justify-content: space-between;">
-  <a href="./podkapitola_2.md"><< Izolanty</a>
-  <a href="../kapitola_2/podkapitola_1.md">Základní zákony >></a>
-</div>
+[:arrow_left: Izolanty](./podkapitola_2.md)
+[:arrow_right: Základní zákony](../kapitola_2/podkapitola_1.md)
 
 
 
@@ -152,3 +150,12 @@ S = plocha (m²)
 
 - [Wikipedie](https://wikipedia.org)
     - [Magnetický tok](https://cs.wikipedia.org/wiki/Magnetick%C3%BD_tok)
+
+---
+
+
+
+
+
+[:arrow_left: Izolanty](./podkapitola_2.md)
+[:arrow_right: Základní zákony](../kapitola_2/podkapitola_1.md)

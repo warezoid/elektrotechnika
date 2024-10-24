@@ -1,7 +1,5 @@
-<span>
-    <a href="../../../README.md" style="float: left;"><< README</a>
-    <a href="./podkapitola_2.md" style="float: right;">Izolanty >></a>
-</span>
+[:arrow_left: README](../../../README.md)
+[:arrow_right: Izolanty](./podkapitola_2.md)
 
 
 
@@ -444,3 +442,12 @@ E = intenzita elektrického pole (V/m)
     - [Permitivita](https://cs.wikipedia.org/wiki/Permitivita)
     - [Elektrická kapacita](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_kapacita)
     - [Elektrická indukce](https://cs.wikipedia.org/wiki/Elektrick%C3%A1_indukce)
+
+---
+
+
+
+
+
+[:arrow_left: README](../../../README.md)
+[:arrow_right: Izolanty](./podkapitola_2.md)

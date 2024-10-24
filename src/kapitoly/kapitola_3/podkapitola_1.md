@@ -1,5 +1,13 @@
-# Kapitola 3
+[:arrow_left: Základní pravidla](../kapitola_2/podkapitola_3.md)
+
+
+
+
+
+# Komponenty elektrického obvodu
 Třetí kapitola popisuje činnost, využití a další informace o klíčových komponentech elektrického obvodu.
+
+
 
 
 
@@ -12,9 +20,13 @@ Třetí kapitola popisuje činnost, využití a další informace o klíčových
 
 
 
+
+
 ## Komponenty elektrického obvodu
 
-### Zdroj.
+
+
+### Zdroj
 **Schématické značení**
 
 ![Schématické značení zdroje](../../img/kapitola_3/ilustrace_7.png)
@@ -22,16 +34,18 @@ Třetí kapitola popisuje činnost, využití a další informace o klíčových
 - Elektrický proud teče z kladného pólu (+) k zápornému pólu (−).
 - Napětí je orientováno opačně. Ze záporného pólu (−) ke kladnému pólu (+).
 
-<hr>
+---
 
 
-#### Spotřebič.
+
+#### Spotřebič
 - Směr proudu na spotřebiči je stejný jako orientace napětí.
 
-<hr>
+---
 
 
-#### Kondenzátor.
+
+#### Kondenzátor
 **Schématické značení**
 
 ![Schématické značení kondenzátoru](../../img/kapitola_3/ilustrace_8.png)
@@ -91,6 +105,10 @@ C = kapacita kondenzátoru (F)
 U = napětí na kondenzátoru (V)
 ```
 
+---
+
+
+
 
 
 ## Zdroje kapitoly
@@ -100,3 +118,11 @@ U = napětí na kondenzátoru (V)
     - [ElectroBOOM](https://www.youtube.com/@ElectroBOOM)
         - [How CAPACITORS Work (ElectroBOOM101-006)](https://www.youtube.com/watch?v=rbCXKhhzBN0)
     - [Capacitors and Capacitance: Capacitor physics and circuit operation](https://www.youtube.com/watch?v=f_MZNsEqyQw)
+
+---
+
+
+
+
+
+[:arrow_left: Základní pravidla](../kapitola_2/podkapitola_3.md)

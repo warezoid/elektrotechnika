@@ -1,7 +1,5 @@
-<div style="display: flex; width: 100vw; justify-content: space-between;">
-  <a href="../kapitola_1/podkapitola_3.md"><< Magnetismus</a>
-  <a href="./podkapitola_2.md">Zapojení odporů >></a>
-</div>
+[:arrow_left: Magnetismus](../kapitola_1/podkapitola_3.md)
+[:arrow_right: Zapojení odporů](./podkapitola_2.md)
 
 
 
@@ -137,3 +135,12 @@ $$
 - [Wikipedie](https://wikipedia.org)
     - [Columbův zákon](https://cs.wikipedia.org/wiki/Coulomb%C5%AFv_z%C3%A1kon)
     - [Kirchhoffovy zákony](https://cs.wikipedia.org/wiki/Kirchhoffovy_z%C3%A1kony)
+
+---
+
+
+
+
+
+[:arrow_left: Magnetismus](../kapitola_1/podkapitola_3.md)
+[:arrow_right: Zapojení odporů](./podkapitola_2.md)

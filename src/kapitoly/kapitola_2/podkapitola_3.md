@@ -1,7 +1,5 @@
-<div style="display: flex; width: 100vw; justify-content: space-between;">
-  <a href="./podkapitola_2.md"><< Zapojení odporů</a>
-  <a href="../kapitola_3/podkapitola_1.md">--- >></a>
-</div>
+[:arrow_left: Zapojení odporů](./podkapitola_2.md)
+[:arrow_right: Komponenty elektrického obvodu](../kapitola_3/podkapitola_1.md)
 
 
 
@@ -71,3 +69,12 @@ Druhá kapitola se zaměřuje na základní fyzikální vztahy a zákonitosti, k
 - [ChatGPT](https://chatgpt.com/)
 
 - [Wikipedie](https://wikipedia.org)
+
+---
+
+
+
+
+
+[:arrow_left: Zapojení odporů](./podkapitola_2.md)
+[:arrow_right: Komponenty elektrického obvodu](../kapitola_3/podkapitola_1.md)
