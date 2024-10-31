@@ -18,6 +18,7 @@ Tato kapitola se soustředí na základní fyzikální veličiny a pojmy nezbytn
     - [Magnetismus a magnetické pole](#magnetismus-a-magnetické-pole)
     - [Magnetická indukce](#magnetická-indukce)
     - [Magnetický tok](#magnetický-tok)
+    - [Vlastní indukčnost](#vlastní-indukčnost)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -139,6 +140,52 @@ S = plocha (m²)
 
 
 
+### Vlastní indukčnost
+- **Značka: L**
+- **Jednotka: henry (H)**
+
+<br>
+
+- Indukčnost je schopnost cívky vytvářet vlastní napětí v reakci na změnu proudu.
+- Tato vlastnost závisí pouze na konstrukci cívky, respektive na počtu vinutí, průměru vodiče, délce, a použitém materiálu.
+- Konstrukce cívky určuje indukčnost, díky čemuž může cívka pracovat na různých úrovních napětí a proudu. Avšak vysoké hodnoty napětí a proudu mohou ohrozit ochranu vodiče, což vede k riziku zkratu.
+- Indukčnost umožňuje cívce vytvářet magnetické pole prostřednictvím proudu. Jakýkoli vodič, kterým protéká proud, má indukčnost a může magneticky ovlivňovat okolní objekty, čímž vykonává práci.
+- Indukčnost lze vypočítat podle následujícího vztahu::
+
+$$
+L = \frac{Φ}{I}
+$$
+
+```
+Φ = magnetický tok (Wb)
+L = indukčnost (H)
+I = elektrický proud (A)
+```
+
+<br>
+
+- Cívka indukuje napětí pouze při změně magnetického pole, tedy při změně směru (průběh střídavého proudu) nebo intenzity proudu (vypnutí a zapnutí obvodu).
+- Energie uložená v cívce se vypočítá podle následujícího vzorce:
+
+$$
+E = \frac{L \cdot I^2}{2}
+$$
+
+```
+E = energie (J)
+L = indukčnost (H)
+I = elektrický proud (A)
+```
+
+<br>
+
+- Vzájemná indukčnost popisuje vztah mezi dvěma cívkami, které mohou částečně sdílet své magnetické toky.
+- Část magnetického toku, kterou cívky sdílí, se označuje jako rozptylový tok.
+
+---
+
+
+
 
 
 ## Zdroje kapitoly
@@ -151,6 +198,7 @@ S = plocha (m²)
 
 - [Wikipedie](https://wikipedia.org)
     - [Magnetický tok](https://cs.wikipedia.org/wiki/Magnetick%C3%BD_tok)
+    - [Indukčnost](https://cs.wikipedia.org/wiki/Induk%C4%8Dnost)
 
 ---
 
