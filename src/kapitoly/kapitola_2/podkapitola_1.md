@@ -127,7 +127,7 @@ $$
 
 ### Zákon elektromagnetické indukce
 - Faradayův zákon elektromagnetické indukce popisuje, že změna magnetického pole indukuje elektrické pole, což způsobuje tok proudu ve vodiči.
-- Tento zákon říká, že změna magnetického toku (Φ)(Φ) indukuje elektrické napětí (Ui)(Ui​) ve vodiči, což vyvolá proud, pokud je obvod uzavřený.
+- Tento zákon říká, že změna magnetického toku indukuje elektrické napětí ve vodiči, což vyvolá proud, pokud je obvod uzavřený.
 - Indukované napětí je přímo úměrné rychlosti změny magnetického toku.
 
 $$
