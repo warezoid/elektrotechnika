@@ -164,21 +164,6 @@ I = elektrický proud (A)
 
 <br>
 
-- Cívka indukuje napětí pouze při změně magnetického pole, tedy při změně směru (průběh střídavého proudu) nebo intenzity proudu (vypnutí a zapnutí obvodu).
-- Energie uložená v cívce se vypočítá podle následujícího vzorce:
-
-$$
-E = \frac{L \cdot I^2}{2}
-$$
-
-```
-E = energie (J)
-L = indukčnost (H)
-I = elektrický proud (A)
-```
-
-<br>
-
 - Vzájemná indukčnost popisuje vztah mezi dvěma cívkami, které mohou částečně sdílet své magnetické toky.
 - Část magnetického toku, kterou cívky sdílí, se označuje jako rozptylový tok.
 

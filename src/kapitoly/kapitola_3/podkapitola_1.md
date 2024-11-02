@@ -16,6 +16,7 @@ Třetí kapitola popisuje činnost, využití a další informace o klíčových
     - [Zdroj](#zdroj)
     - [Spotřebič](#spotřebič)
     - [Kondenzátor](#kondenzátor)
+    - [Cívka](#cívka)
 - [Zdroje kapitoly](#zdroje-kapitoly)
 
 
@@ -104,6 +105,57 @@ E = energie uložená v kondenzátoru (J)
 C = kapacita kondenzátoru (F)
 U = napětí na kondenzátoru (V)
 ```
+
+---
+
+
+
+#### Cívka
+**Schématické značení**
+
+![Schématické značení cívky](../../img/kapitola_3/ilustrace_9.png)
+
+- Cívka je vodič navinutý do spirály, který umožňuje průchod proudu a vytváří magnetické pole uvnitř sebe i ve svém okolí.
+- Většina cívek je spojena s jádrem (často železným), které zvyšuje magnetický tok a umožňuje dosažení silnějšího magnetického pole při menším proudu.
+- Rychlé odpojení cívky od zdroje může způsobit elektrický výboj v důsledku kolapsu magnetického pole.
+- Díky své schopnosti vytvářet proud indukcí má cívka tzv. vlastní indukčnost.
+
+<br>
+
+- Cívka brání prudkým změnám proudu, protože nárůst proudu probíhá určitou dobu.
+    - Po sepnutí obvodu s cívkou napětí na cívce začíná na své maximální hodnotě a postupně klesá, zatímco proud se postupně zvyšuje.
+    - Při vypnutí obvodu proud klesá z maximálních hodnot na nulu.
+
+<br>
+
+- Cívka indukuje napětí pouze při změně magnetického pole, tedy při změně směru (průběh střídavého proudu) nebo intenzity proudu (vypnutí a zapnutí obvodu).
+- Energie uložená v cívce se vypočítá podle následujícího vzorce:
+
+$$
+E = \frac{L \cdot I^2}{2}
+$$
+
+```
+E = energie (J)
+L = indukčnost (H)
+I = elektrický proud (A)
+```
+
+<br>
+
+- Vzájemná indukčnost popisuje vztah mezi dvěma cívkami, které mohou částečně sdílet své magnetické toky.
+- Část magnetického toku, kterou cívky sdílí, se označuje jako rozptylový tok.
+
+<br>
+
+**Využití**
+
+<br>
+
+- Cívky se využívají k ukládání energie pomocí magnetického pole.
+- Cívky pomáhají eliminovat elektrický šum a přepěťové špičky v obvodech.
+- Elektromagnet je cívka s železným jádrem, které zesiluje magnetické pole.
+- Spojením dvou cívek lze vytvořit transformátor, který umožňuje přenos napětí a proudu mezi obvody – tento princip je využíván například v zařízeních jako tasery či zapalovací cívky.
 
 ---
 
