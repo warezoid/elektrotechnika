@@ -116,6 +116,49 @@ l = délka kolmého úseku, kterým náboj prochází přes magnetické pole (m)
 
 
 
+### Intenzita magnetického pole
+- **Značka: H**
+- **Jednotka: ampér na metr (A/m)**
+
+<br>
+
+- Intenzita magnetického pole je vektorová fyzikální veličina, která vyjadřuje míru silového účinku magnetického pole, přičemž nezohledňuje vliv prostředí.
+- Pomocí intenzity magnetického pole lze vypočítat magnetickou indukci podle následujícího vzorce:
+
+$$
+B = H \cdot μ
+$$
+
+```
+B = magnetická indukce (T)
+H = intenzita magnetického pole (A/m)
+μ = permeabilita (H/m)
+```
+
+<br>
+
+**Permeabilita**
+
+<br>
+
+- Permeabilita je materiálová konstanta určující vliv prostředí na magnetické pole.
+- Výslednou permeabilitu lze určit pomocí vztahu:
+
+
+$$
+μ = μ_0 \cdot μ_r
+$$
+
+```
+μ = výsledná permeabilita prostředí (H/m)
+μ_0 = permeabilita vakua (H/m)
+μ_r = relativní permeabilita daného materiálu (H/m)
+```
+
+---
+
+
+
 ### Magnetický tok
 - **Značka: Φ**
 - **Jednotka: weber (Wb)**
