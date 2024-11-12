@@ -17,8 +17,11 @@ Tato kapitola se soustředí na základní fyzikální veličiny a pojmy nezbytn
 - Obsah
     - [Magnetismus a magnetické pole](#magnetismus-a-magnetické-pole)
     - [Magnetická indukce](#magnetická-indukce)
+    - [Intenzita magnetického pole](#intenzita-magnetického-pole)
     - [Magnetický tok](#magnetický-tok)
     - [Vlastní indukčnost](#vlastní-indukčnost)
+    - [Magnetický odpor](#magnetický-odpor)
+    - [Magnetické napětí](#magnetické-napětí)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -167,7 +170,8 @@ $$
 
 - Magnetický tok vyjadřuje celkovou magnetickou indukci procházející určitou plochou, protože magnetická indukce popisuje magnetické pole pouze v jednom bodě.
 - Magnetický tok tak představuje součet magnetické indukce v celé ploše.
-- Magnetický tok lze vypočítat pomocí následujícího vzorce:
+- Magnetický tok lze rovněž interpretovat jako magnetický proud.
+- Výpočet magnetického toku je možné provést podle následujícího vzorce:
 
 $$
 Φ = B * S
@@ -209,6 +213,68 @@ I = elektrický proud (A)
 
 - Vzájemná indukčnost popisuje vztah mezi dvěma cívkami, které mohou částečně sdílet své magnetické toky.
 - Část magnetického toku, kterou cívky sdílí, se označuje jako rozptylový tok.
+
+---
+
+
+
+### Magnetický odpor
+- **Značka: R_m**
+- **Jednotka: převrácený henry (1/H)**
+
+<br>
+
+- Magnetický odpor představuje veličinu vyjadřující překážky, které brání průchodu magnetického toku.
+- Magnetický odpor lze vyjádřit pomocí následujícího vztahu:
+
+$$
+R_m = \frac{x}{S \cdot μ}
+$$
+
+```
+R_m = magnetický odpor (1/H)
+x = délka magnetického obvodu (m)
+S = plocha průřezu magnetického toku (m^2)
+μ = permeabilita prostředí (H/m)
+```
+
+---
+
+
+
+### Magnetické napětí
+- **Značka: U_m**
+- **Jednotka: ampér (A)**
+
+<br>
+
+- Magnetické napětí vzniká v důsledku elektrického proudu v obvodu.
+- Jeho hodnota je v rámci magnetického pole všude stejná.
+- Magnetické napětí lze vyjádřit pomocí Hopkinsonova zákona, a to následovně:
+
+$$
+U_m = H \cdot x
+$$
+
+```
+U_m = magnetické napětí (A)
+H = intenzita magnetického pole (A/m)
+x = délka magnetického obvodu (m)
+```
+
+<br>
+
+- Pro výpočet magnetického napětí v cívce lze použít univerzální vztah:
+
+$$
+U_m = I \cdot N
+$$
+
+```
+U_m = magnetické napětí (A)
+I = elektrický proud (A)
+N = počet závitů cívky
+```
 
 ---
 
