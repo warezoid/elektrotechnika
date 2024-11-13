@@ -16,6 +16,7 @@ Tato kapitola se soustředí na základní fyzikální veličiny a pojmy nezbytn
 ## Obsah kapitoly
 - Obsah
     - [Magnetismus a magnetické pole](#magnetismus-a-magnetické-pole)
+    - [Železo](#železo)
     - [Magnetická indukce](#magnetická-indukce)
     - [Intenzita magnetického pole](#intenzita-magnetického-pole)
     - [Magnetický tok](#magnetický-tok)
@@ -82,6 +83,22 @@ F = Lorentzova síla (N)
 F_m = magnetická síla (N)
 F_e = elektrická síla (N)
 ```
+
+---
+
+
+
+### Železo
+- Elektrony v atomech železa obíhají kolem jádra na orbitalech, přičemž mají opačné spiny a pohybují se v opačných směrech.
+- Atom železa má čtyři nepárové elektrony, obsahuje 26 protonů a 30 neutronů, tedy i 26 elektronů, z nichž ty na vyšších orbitalech obíhají stejným směrem a se stejným spinem.
+- Magnetické pole atomu železa je pak určeno součtem spinového a orbitálního magnetického momentu (vytvářeného magnetickým polem elektronů obíhajících po orbitalech).
+
+<br>
+
+- V důsledku kvantových jevů jsou atomy železa orientovány jedním směrem.
+- Nicméně jednotlivé magnetické domény, tvořené skupinami atomů železa, nejsou orientovány jednotně, a proto železo jako celek nevykazuje magnetické vlastnosti.
+- Domény mají různé orientace, čímž vytvářejí magnetický obvod, který je energeticky nejvýhodnější pro daný materiál.
+- Pokud by všechny domény byly orientovány stejným směrem, magnetický obvod by procházel vzduchem, což by bylo energeticky nevýhodné. Magnetické pole je proto soustředěno uvnitř materiálu železa.
 
 ---
 
