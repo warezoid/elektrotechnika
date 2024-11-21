@@ -100,6 +100,16 @@ F_e = elektrická síla (N)
 - Domény mají různé orientace, čímž vytvářejí magnetický obvod, který je energeticky nejvýhodnější pro daný materiál.
 - Pokud by všechny domény byly orientovány stejným směrem, magnetický obvod by procházel vzduchem, což by bylo energeticky nevýhodné. Magnetické pole je proto soustředěno uvnitř materiálu železa.
 
+<br>
+
+- Při vystavení železa magnetickému poli dochází ke dvěma hlavním jevům:
+    - Domény, jejichž směr je nejblíže směru působícího magnetického pole, se začnou zvětšovat, zatímco ostatní domény se zmenšují.
+    - Při dodání velkého proudu do magnetického pole se všechny domény postupně natočí stejným směrem.
+- Tyto jevy vedou k zesílení působícího magnetického pole.
+- Tento proces nám umožňuje definovat magneticky nasycené železo, jehož všechny domény ukazují jedním směrem.
+- Kolem každého atomu železa obíhají elektrony, které vytvářejí proud. Součet těchto proudů je mnohonásobně větší než proud, který prochází cívkou.
+- Magnetická indukce však nemůže růst do nekonečna. V určitém bodě, i když do obvodu přidáváme stále větší proud, již nedochází k dalšímu ovlivnění železa v magnetickém poli.
+
 ---
 
 
