@@ -109,6 +109,20 @@ F_e = elektrická síla (N)
 - Tento proces nám umožňuje definovat magneticky nasycené železo, jehož všechny domény ukazují jedním směrem.
 - Kolem každého atomu železa obíhají elektrony, které vytvářejí proud. Součet těchto proudů je mnohonásobně větší než proud, který prochází cívkou.
 - Magnetická indukce však nemůže růst do nekonečna. V určitém bodě, i když do obvodu přidáváme stále větší proud, již nedochází k dalšímu ovlivnění železa v magnetickém poli.
+- Magnetostrikce je jev, při kterém změna velikosti magnetických domén způsobuje drobné změny rozměrů materiálu. Tento jev například vyvolává hučivý zvuk u transformátorů.
+- Curieova teplota je teplota, na kterou je nutné materiál zahřát, aby ztratil své magnetické vlastnosti.
+
+<br>
+
+- Vytvořením grafu zobrazujícího závislost magnetické indukce na dodávaném proudu získáváme hysterezní křivku. Ta nám umožňuje určit, zda jde o magneticky tvrdý nebo měkký materiál.
+- Magneticky tvrdá ocel má širší hysterezní křivku, zatímco magneticky měkká ocel má křivku užší.
+- Z hysterezní křivky vyplývá, že magneticky měkké materiály se rychleji a s menším proudem vracejí do původního stavu. Z tohoto důvodu se využívají tam, kde je třeba často přepínat magnetické pole.
+
+<br>
+
+- Magneticky dokonalé železo je spíše teoretický koncept, protože ve skutečnosti domény neobsahují pouze atomy železa, ale také prázdná místa nebo jiné atomy.
+- Tato místa tvoří hranice magnetických domén, protože je to pro materiál energeticky výhodnější.
+- Magneticky tvrdé oceli obsahují více příměsí, které poskytují stabilní polohu pro hranice magnetických domén.
 
 ---
 
