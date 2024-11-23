@@ -84,6 +84,29 @@ F_m = magnetická síla (N)
 F_e = elektrická síla (N)
 ```
 
+<br>
+
+- Magnetické pole ovlivňuje všechny materiály, avšak podle míry a způsobu působení se materiály dělí do následujících kategorií:
+
+<br>
+
+- Feromagnetika
+    - Silně interagují s magnetickým polem a významně ho ovlivňují.
+
+<br>
+
+- Paramagnetika
+    - Interagují s magnetickým polem, avšak silou, která je obvykle eliminována třením a působením gravitačního pole.
+    - Atomy paramagnetik se neshlukují do domén, ale každý atom má jinou orientaci.
+    - Po vložení paramagnetika do magnetického pole se atomy orientují stejným směrem, čímž zesilují magnetické pole.
+
+<br>
+
+- Diamagnetika
+    - Všechny elektrony v diamagnetických materiálech jsou spárované. Proto po vložení diamagnetika do magnetického pole dochází k oslabení pole.
+    - Diamagnetické vlastnosti mají všechny materiály, protože jejich orbitaly jsou symetricky zaplněné. Nicméně vliv těchto vlastností je často překryt jinými magnetickými charakteristikami materiálu.
+    - Výsledné magnetické vlastnosti látky jsou určeny její nejdominantnější vlastností.
+
 ---
 
 
