@@ -23,6 +23,7 @@ Sekce kapitoly slouží k přehlednější orientaci a navigaci ve skriptech.
     - [Podkapitola 1 - Elektrické pojmy a veličiny](./src/kapitoly/kapitola_1/podkapitola_1.md)
     - [Podkapitola 2 - Izolanty](./src/kapitoly/kapitola_1/podkapitola_2.md)
     - [Podkapitola 3 - Magnetismus](./src/kapitoly/kapitola_1/podkapitola_3.md)
+    - [Podkapitola 4 - Střídavý proud](./src/kapitoly/kapitola_1/podkapitola_4.md)
 - Kapitola 2 - Zákonitosti a vztahy
     - [Podkapitola 1 - Základní zákony](./src/kapitoly/kapitola_2/podkapitola_1.md)
     - [Podkapitola 2 - Zapojení odporů](./src/kapitoly/kapitola_2/podkapitola_2.md)
