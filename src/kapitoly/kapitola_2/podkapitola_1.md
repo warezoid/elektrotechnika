@@ -1,4 +1,4 @@
-[:arrow_left: Magnetismus](../kapitola_1/podkapitola_3.md)
+[:arrow_left: Střídavý proud](../kapitola_1/podkapitola_4.md)
 
 [:arrow_right: Zapojení odporů](./podkapitola_2.md)
 
@@ -275,6 +275,6 @@ t = rozdíl časů (s)
 
 
 
-[:arrow_left: Magnetismus](../kapitola_1/podkapitola_3.md)
+[:arrow_left: Střídavý proud](../kapitola_1/podkapitola_4.md)
 
 [:arrow_right: Zapojení odporů](./podkapitola_2.md)

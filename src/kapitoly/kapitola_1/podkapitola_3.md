@@ -1,6 +1,6 @@
 [:arrow_left: Izolanty](./podkapitola_2.md)
 
-[:arrow_right: Základní zákony](../kapitola_2/podkapitola_1.md)
+[:arrow_right: Střídavý proud](./podkapitola_4.md)
 
 
 
@@ -366,4 +366,4 @@ N = počet závitů cívky
 
 [:arrow_left: Izolanty](./podkapitola_2.md)
 
-[:arrow_right: Základní zákony](../kapitola_2/podkapitola_1.md)
+[:arrow_right: Střídavý proud](./podkapitola_4.md)
