@@ -31,10 +31,102 @@
 
 <br>
 
+
+
 **Fázorový diagram**
+
+<br>
+
 - Pro snazší výpočty je výhodné sinusový průběh znázornit na kružnici místo časového grafu.
 - V rovině definované reálnou částí (x-ová osa) a imaginární částí (y-ová osa) se vykreslí jednotková kružnice (kružnice s poloměrem 1). Průběh sinusové funkce lze poté zaznamenávat na tuto kružnici.
 - Fázor (neboli fázový vektor) představuje okamžitou hodnotu proudu nebo napětí a jeho směr odpovídá aktuální fázi sinusového průběhu.
+- Úhel, který fázor urazil od počátku, se měří v radiánech. Celý obvod kružnice odpovídá 2π radiánům.
+- Úhlová rychlost (ω) udává rychlost oběhu fázoru po kružnici a je definována vztahem:
+
+$$
+\omega = 2 \cdot \pi \cdot f
+$$
+
+```
+ω = uhlová rychlost (rad/s)
+f = frekvence (Hz)
+```
+
+- Pokud se na fázorovém diagramu vyskytuje více stejných veličin, pak se sečtou a pracuje se pouze s výslednou hodnotou.
+
+<br>
+
+
+
+**Hodnoty proudu a napětí**
+
+<br>
+
+- Maximální hodnota napětí nebo proudu je amplituda sinusové funkce – tedy rozdíl mezi nulou a nejvyšším bodem.
+- Okamžitá hodnota napětí nebo proudu je hodnota v konkrétním bodě na sinusovém průběhu.
+
+<br>
+
+- Okamžitou hodnotu proudu lze vypočítat ze vztahu:
+
+$$
+i = I_m \cdot sin(\omega \cdot t + \phi)
+$$
+
+```
+i = okamžitá hodnota proudu (A)
+I_m = maximální hodnota proudu (A)
+ω = uhlová rychlost (rad/s)
+t = doba (s)
+ϕ = fázový posuv (°)
+```
+
+<br>
+
+- Zatím co okamžitou hodnotu napětí lze vypočítat ze vztahu:
+
+$$
+u = U_m \cdot sin(\omega \cdot t + \phi)
+$$
+
+```
+u = okamžitá hodnota napětí (V)
+U_m = maximální hodnota napětí (V)
+ω = uhlová rychlost (rad/s)
+t = doba (s)
+ϕ = fázový posuv (°)
+```
+
+**Efektivní hodnota**
+
+<br>
+
+- Při práci se střídavým proudem se často používá efektivní hodnota. Anglicky RMS – root mean square.
+- Efektivní hodnota střídavého proudu odpovídá velikosti stejnosměrného proudu, který vyvolá stejné tepelné účinky na odporu.
+- Efektivní hodnotu lze vypočítat pomocí vztahu:
+
+$$
+I_e = \frac{I_m}{\sqrt{2}}
+$$
+
+```
+I_e = efektivní hodnota proudu (A)
+I_m = maximální hodnota proudu (A)
+```
+
+- Popřípadě napětí ze vztahu:
+
+$$
+U_e = \frac{U_m}{\sqrt{2}}
+$$
+
+```
+U_e = efektivní hodnota napětí (V)
+U_m = maximální hodnota napětí (V)
+```
+
+<br>
+
 
 
 
@@ -48,6 +140,7 @@
 - [ChatGPT](https://chatgpt.com/)
 
 - [Wikipedie](https://wikipedia.org)
+    - [Úhlová rychlost](https://cs.wikipedia.org/wiki/%C3%9Ahlov%C3%A1_rychlost)
 
 ---
 
