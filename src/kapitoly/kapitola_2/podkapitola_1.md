@@ -15,6 +15,7 @@ Druhá kapitola se zaměřuje na základní fyzikální vztahy a zákonitosti, k
 
 ## Obsah kapitoly
 - Obsah
+- [Základní zákony](#základní-zákony)
     - [Ohmův zákon](#ohmův-zákon)
     - [Columbův zákon](#columbův-zákon)
     - [Kirchhoffovy zákony](#kirchhoffovy-zákony)

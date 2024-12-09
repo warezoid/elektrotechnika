@@ -14,7 +14,9 @@
 
 ## Obsah kapitoly
 - Obsah
-
+- [Střídavý proud](#střídavý-proud)
+- [Činný odpor](#činný-odpor)
+- [Reaktance (jalový odpor)](#reaktance-jalový-odpor)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -125,7 +127,35 @@ U_e = efektivní hodnota napětí (V)
 U_m = maximální hodnota napětí (V)
 ```
 
+---
+
+
+
+## Činný odpor
+- **Značka: R**
+- **Jednotka: ohm (&#937;)**
+
 <br>
+
+- Každá součástka je složena z vodičů, které se při průtoku proudu zahřívají, čímž vzniká odpor.
+- Jelikož má odpor každá součástka tak kreslíme vektor odporu na reálnou část fázorového diagramu.
+- Více o odporu najdete v podkapitole [elektrické pojmy a veličiny](./podkapitola_1.md) v části [elektrický odpor](./podkapitola_1.md#elektrický-odpor).
+
+---
+
+
+
+## Reaktance (jalový odpor)
+- **Značka: X**
+- **Jednotka: ohm (&#937;)**
+
+<br>
+
+- Reaktance je imaginární část impedance elektrického obvodu, a proto se znázorňuje na imaginární ose fázorového diagramu.
+- Reaktance se projevuje změnou fáze proudu vůči napětí, konkrétně jeho zpožděním nebo předbíháním o polovinu π​ radiánu.
+
+---
+
 
 
 
@@ -141,6 +171,7 @@ U_m = maximální hodnota napětí (V)
 
 - [Wikipedie](https://wikipedia.org)
     - [Úhlová rychlost](https://cs.wikipedia.org/wiki/%C3%9Ahlov%C3%A1_rychlost)
+    - [Reaktance](https://cs.wikipedia.org/wiki/Reaktance)
 
 ---
 
