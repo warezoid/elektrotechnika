@@ -152,7 +152,62 @@ U_m = maximální hodnota napětí (V)
 <br>
 
 - Reaktance je imaginární část impedance elektrického obvodu, a proto se znázorňuje na imaginární ose fázorového diagramu.
-- Reaktance se projevuje změnou fáze proudu vůči napětí, konkrétně jeho zpožděním nebo předbíháním o polovinu π​ radiánu.
+- Projevuje se změnou fáze proudu vůči napětí, konkrétně jeho zpožděním nebo předbíháním o polovinu π radiánu.
+
+<br>
+
+- Vliv reaktance se ve vztahu projevuje přičtením nebo odečtením poloviny π radiánu:
+
+$$
+i = I_m \cdot sin(\omega \cdot t + \frac{\pi}{2})
+$$
+
+- popřípadě:
+
+$$
+i = I_m \cdot sin(\omega \cdot t - \frac{\pi}{2})
+$$
+
+```
+i = okamžitá hodnota proudu (A)
+I_m = maximální hodnota proudu (A)
+ω = uhlová rychlost (rad/s)
+t = doba (s)
+ϕ = fázový posuv (°)
+```
+
+<br>
+
+**Kapacitní reaktance**
+- Kapacitní reaktance vzniká v obvodech s kondenzátorem a projevuje se předbíháním proudu vůči napětí o polovinu π radiánu.
+- Kapacitní reaktance je dána vztahem:
+
+$$
+X_C = \frac{1}{C \cdot \omega}
+$$
+
+```
+X_C = kapacitní reaktance (Ω)
+C = elektrická kapacita (F)
+ω = uhlová rychlost (rad/s)
+```
+
+<br>
+
+**Induktivní reaktance**
+- Induktivní reaktance vzniká v obvodech s cívkou a chová se jako odpor způsobený indukovaným napětím.
+- Indukované napětí vzniká v důsledku magnetického pole vytvořeného průchodem proudu cívkou. Toto napětí má opačný směr než proud a brání jeho průtoku.
+- Induktivní reaktance je dána vztahem:
+
+$$
+X_L = L \cdot \omega
+$$
+
+```
+X_l = induktivní reaktance (Ω)
+L = indukčnost (H)
+ω = uhlová rychlost (rad/s)
+```
 
 ---
 
