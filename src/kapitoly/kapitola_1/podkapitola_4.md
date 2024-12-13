@@ -17,6 +17,8 @@
 - [Střídavý proud](#střídavý-proud)
 - [Činný odpor](#činný-odpor)
 - [Reaktance (jalový odpor)](#reaktance-jalový-odpor)
+- [Impedance (zdánlivý odpor)](#impedance-zdánlivý-odpor)
+- [Fázový posuv](#fázový-posuv)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -211,6 +213,47 @@ L = indukčnost (H)
 
 ---
 
+
+
+## Impedance (zdánlivý odpor)
+- **Značka: Z**
+- **Jednotka: ohm (&#937;)**
+
+<br>
+
+- Impedance je komplexní veličina vznikající kombinací činného odporu a reaktance.
+- Výslednou impedanci lze rozložit na dvě složky:
+    - Činný odpor: reálná složka, kde proud přeměňuje svou energii na jiný typ, například na tepelnou energii.
+    - Jalový odpor (reaktance): imaginární složka, která se dále dělí na kapacitní a induktivní reaktanci.
+- Jalový proud prochází jalovým odporem a nemění energii na teplo, ale ukládá ji do jiných forem, například do magnetického pole cívky nebo elektrického pole kondenzátoru.
+
+---
+
+
+
+## Fázový posuv
+- **Značka: ϕ**
+- **Jednotka: stupně (°)**
+
+<br>
+
+- Fázový posuv je úhel, který vyjadřuje rozdíl mezi proudem a napětím na fázorovém diagramu.
+- Tento úhel umožňuje určit charakter obvodu:
+    - Induktivní obvod: napětí předbíhá proud.
+    - Kapacitní obvod: proud předbíhá napětí.
+- Fázový posuv je také úzce spojen s **účiníkem**, který vyjadřuje efektivitu přeměny energie a je dán vztahem:
+
+$$
+cos(\phi) = \frac{R}{Z}
+$$
+
+```
+cos(ϕ) = účiník
+R = činný odpor (Ω)
+Z = impedance (Ω)
+```
+
+---
 
 
 
