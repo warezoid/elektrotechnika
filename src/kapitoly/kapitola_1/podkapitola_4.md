@@ -178,6 +178,17 @@ t = doba (s)
 ϕ = fázový posuv (°)
 ```
 
+- Převrácenou hodnotou reaktance je susceptance, značená B a s jednotkou siemens.
+
+$$
+B = \frac{1}{X}
+$$
+
+```
+B = susceptance (S)
+X = reaktance (Ω)
+```
+
 <br>
 
 **Kapacitní reaktance**
@@ -226,6 +237,19 @@ L = indukčnost (H)
     - Činný odpor: reálná složka, kde proud přeměňuje svou energii na jiný typ, například na tepelnou energii.
     - Jalový odpor (reaktance): imaginární složka, která se dále dělí na kapacitní a induktivní reaktanci.
 - Jalový proud prochází jalovým odporem a nemění energii na teplo, ale ukládá ji do jiných forem, například do magnetického pole cívky nebo elektrického pole kondenzátoru.
+
+<br>
+
+- Převrácenou hodnotou impedance je admitance, značená Y a s jednotkou siemens.
+
+$$
+Y = \frac{1}{Z}
+$$
+
+```
+Y = admitance (S)
+Z = impedance (Ω)
+```
 
 ---
 
