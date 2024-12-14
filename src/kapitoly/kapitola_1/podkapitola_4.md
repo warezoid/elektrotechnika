@@ -19,6 +19,7 @@
 - [Reaktance (jalový odpor)](#reaktance-jalový-odpor)
 - [Impedance (zdánlivý odpor)](#impedance-zdánlivý-odpor)
 - [Fázový posuv](#fázový-posuv)
+- [Výkon](#výkon)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -133,6 +134,8 @@ U_m = maximální hodnota napětí (V)
 
 
 
+
+
 ## Činný odpor
 - **Značka: R**
 - **Jednotka: ohm (&#937;)**
@@ -144,6 +147,8 @@ U_m = maximální hodnota napětí (V)
 - Více o odporu najdete v podkapitole [elektrické pojmy a veličiny](./podkapitola_1.md) v části [elektrický odpor](./podkapitola_1.md#elektrický-odpor).
 
 ---
+
+
 
 
 
@@ -226,6 +231,8 @@ L = indukčnost (H)
 
 
 
+
+
 ## Impedance (zdánlivý odpor)
 - **Značka: Z**
 - **Jednotka: ohm (&#937;)**
@@ -255,6 +262,8 @@ Z = impedance (Ω)
 
 
 
+
+
 ## Fázový posuv
 - **Značka: ϕ**
 - **Jednotka: stupně (°)**
@@ -275,6 +284,55 @@ $$
 cos(ϕ) = účiník
 R = činný odpor (Ω)
 Z = impedance (Ω)
+```
+
+---
+
+
+
+
+
+## Výkon
+- **Značka: P**
+- **Jednotka: watt (W)**
+
+<br>
+
+- Okamžitý výkon ve střídavých obvodech lze vypočítat z následujícího vztahu:
+
+$$
+p = u \cdot i
+$$
+
+```
+p = okamžitý výkon (W)
+u = okamžité napětí (V)
+i = okamžitý proud (A)
+```
+
+- Pokud bychom násobili okamžité hodnoty napětí a proudu na sinusovém průběhu střídavého proudu, výsledný graf výkonu by měl sinusový průběh s dvojnásobnou frekvencí a střídal by kladné a záporné hodnoty.
+- Z pohledu na tento graf vyplývá:
+    - Pokud je graf v kladné části osy, energie proudí ze zdroje do zátěže.
+    - Pokud je graf v záporné části osy, energie se z reaktivní zátěže (např. kondenzátoru nebo cívky) vrací zpět do zdroje.
+
+<br>
+
+- Kondenzátor a cívka ukládají energii (do elektrického nebo magnetického pole) a následně ji vracejí zpět do obvodu. Chovají se jako zdroj a zároveň jako spotřebič.
+- Odpor se chová výhradně jako spotřebič, protože energii nevrací zpět do obvodu, ale trvale ji mění na teplo.
+
+<br>
+
+- Pro výpočet středního výkonu v obvodu lze použít vztah:
+
+$$
+P = U \cdot I \cdot cos(\phi)
+$$
+
+```
+P = výkon (W)
+U = efektivní napětí (V)
+I = efektivní proud (A)
+cos(ϕ) = účiník
 ```
 
 ---
