@@ -20,6 +20,7 @@
 - [Impedance (zdánlivý odpor)](#impedance-zdánlivý-odpor)
 - [Fázový posuv](#fázový-posuv)
 - [Výkon](#výkon)
+- [Jalový výkon](#jalový-výkon)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -335,7 +336,23 @@ I = efektivní proud (A)
 cos(ϕ) = účiník
 ```
 
+<br>
+
 ---
+
+
+
+
+
+## Jalový výkon
+- **Značka: Q**
+- **Jednotka: voltampér reakční (VAr)**
+
+<br>
+
+- Tento výkon je potřebný k vytvoření magnetického nebo elektrického pole v reaktivních součástkách, jako jsou cívky a kondenzátory.
+- Jalový výkon nepřispívá k užitečné práci, ale je nezbytný pro správnou funkci obvodu.
+- Vektorovým součtem reálného a jalového výkonu získáme zdánlivý výkon.
 
 
 
