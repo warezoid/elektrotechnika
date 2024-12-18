@@ -21,6 +21,7 @@
 - [Fázový posuv](#fázový-posuv)
 - [Výkon](#výkon)
 - [Jalový výkon](#jalový-výkon)
+- [Rezonance](#rezonance)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -353,6 +354,56 @@ cos(ϕ) = účiník
 - Tento výkon je potřebný k vytvoření magnetického nebo elektrického pole v reaktivních součástkách, jako jsou cívky a kondenzátory.
 - Jalový výkon nepřispívá k užitečné práci, ale je nezbytný pro správnou funkci obvodu.
 - Vektorovým součtem reálného a jalového výkonu získáme zdánlivý výkon.
+
+
+
+
+
+## Rezonance
+- Rezonance nastává, pokud je frekvence dodávané energie shodná s vlastní frekvencí systému.
+- V tomto stavu lze s minimálním množstvím energie na vstupu dosáhnout procesů s výrazně větším množstvím energie na výstupu.
+
+<br>
+
+- V elektrotechnických obvodech nastává rezonance, pokud se kapacitní a indukční reaktance navzájem rovnají.
+- V tomto případě se na fázorovém diagramu reaktance vzájemně vyruší, což vede k tomu, že výsledná impedance obvodu je tvořena pouze činným odporem.
+- Pro účiník platí:
+
+$$
+cos \phi = 1
+$$
+
+```
+ϕ = fázový posuv (°)
+```
+
+<br>
+
+- Vynesením proudu v závislosti na frekvenci získáme rezonanční křivku.
+- Čím větší je odpor rezonančního obvodu, tím menší jsou špičkové hodnoty proudu a napětí.
+- Při vysokých hodnotách proudu nebo napětí může dojít k porušení izolace součástek a následnému poškození obvodu.
+- Z tohoto důvodu je rezonance v silnoproudé elektrotechnice zpravidla nevyužitelná, avšak nachází široké uplatnění v radiotechnice.
+
+<br>
+
+- Jednoduchý rezonanční obvod lze realizovat paralelním zapojením cívky a kondenzátoru.
+- Po nabití kondenzátoru a následném uzavření obvodu s cívkou a kondenzátorem proud v obvodu osciluje. Amplituda oscilací se postupně zmenšuje, dokud není energie v obvodu pohlcena odporem vodičů.
+
+<br>
+
+**Thompsonův vztah**
+- Slouží k výpočtu vlastní frekvence rezonančního obvodu.
+- Tento vztah platí jak pro sériové, tak pro paralelní rezonanční obvody.
+
+$$
+f_0 = \frac{1}{2 \cdot \pi \cdot \sqrt{L \cdot C}}
+$$
+
+```
+f_0 = vlastní frekvence (Hz)
+L = indukčnost (H)
+C = kapacita (F)
+```
 
 
 
