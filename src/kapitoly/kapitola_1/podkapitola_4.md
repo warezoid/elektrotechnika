@@ -22,6 +22,7 @@
 - [Výkon](#výkon)
 - [Jalový výkon](#jalový-výkon)
 - [Rezonance](#rezonance)
+- [Tří fázový proud](#tří-fázový-proud)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -403,6 +404,145 @@ $$
 f_0 = vlastní frekvence (Hz)
 L = indukčnost (H)
 C = kapacita (F)
+```
+
+
+
+
+
+## Tří fázový proud
+- Třífázový proud tvoří tři identické střídavé proudy, které jsou vůči sobě posunuty o fázový úhel 120°.
+
+$$
+120° = \frac{2 \pi}{3} rad
+$$
+
+- Třífázový proud lze generovat pomocí moderních generátorů, kde rotující magnet (rotor) vytváří indukci ve třech statických cívkách (stator), které jsou prostorově posunuty o 120°.
+- Součtem okamžitých hodnot všech tří fázových proudů je v každém okamžiku nulový proud.
+
+<br>
+
+
+
+**Zapojení do hvězdy (Y)**
+
+<br>
+
+- Zapojením všech konců vinutí do jednoho společného bodu vzniká zapojení do hvězdy.
+- Ve vinutí zapojeném do hvězdy lze měřit:
+    - Fázové napětí: mezi uzlem a fází.
+    - Sdružené napětí: mezi dvěma fázemi.
+
+<br>
+
+- Toto zapojení umožňuje přenos proudu ze zdroje na zátěž bez zpětného toku proudu do generátoru (za ideálních podmínek).
+- Pro stabilitu systému je však využíván přídavný vodič vedený ze společného uzlu, který se nazývá nulový vodič.
+- Aby nedocházelo k nadměrnému zatížení nulového vodiče, je nutné, aby spotřebiče připojené na jednotlivé fáze odebíraly proudy rovnoměrně.
+
+<br>
+
+- Poměr mezi sdruženým napětím a fázovým napětím lze vyjádřit vztahem:
+
+$$
+\frac{U_S}{U_1} = \sqrt{3}
+$$
+
+```
+U_S = sdružené napětí (V)
+U_1 = fázové napětí (V)
+```
+
+<br>
+
+
+
+**Zapojení do trojúhleníku (D)**
+
+<br>
+
+- Zapojení do trojúhelníku vzniká propojením konce jedné fáze se začátkem fáze následující. Tímto způsobem všechny tři fáze tvoří uzavřený okruh.
+- Ve vinutí zapojeném do trojúhelníku lze měřit pouze sdružené napětí. Fázové napětí zde není přístupné, protože chybí nulový bod.
+
+<br>
+
+- V zapojení lze měřit:
+    - Fázový proud: proud, který prochází jednotlivými vinutími.
+    - Sdružený proud: proud v přívodních vodičích, který je větší než fázový proud.
+- Poměr mezi sdruženým proudem a fázovým proudem v trojúhelníkovém zapojení je:
+
+$$
+I_S = \sqrt{3} \cdot I_1
+$$
+
+```
+I_S = sdružený proud (A)
+I_1 = fázový proud (A)
+```
+
+<br>
+
+
+
+**Výkon ve třífázových obvodech**
+- Celkový zdánlivý výkon v třífázovém obvodu je dán součtem výkonů na jednotlivých fázích:
+
+$$
+S = S_1 + S_2 + S_3
+$$
+
+```
+S = celkový zdánlivý výkon (VA)
+S_1, S_2, S_3 = zdánlivý výkon jednotlivých fází (VA)
+```
+
+<br>
+
+- Pro jednu fázi platí vztah:
+
+$$
+S_1 = U_1 * I_1
+$$
+
+```
+S_1 = zdánlivý výkon fáze 1 (VA)
+U_1 = fázové napětí (V)
+I_1 = fázový proud (A)
+```
+
+<br>
+
+- Celkový zdánlivý výkon v třífázovém obvodu lze také vyjádřit pomocí sdruženého napětí:
+
+$$
+S = \sqrt{3} \cdot U_S \cdot I_1
+$$
+
+```
+S = celkový zdánlivý výkon (VA)
+U_S = sdružené napětí (V)
+I = sdružený proud (A)
+```
+
+<br>
+
+- Činný výkon, který představuje užitečný výkon přeměněný na práci, se vypočítá ze vztahu:
+
+$$
+P = \sqrt{3} \cdot U \cdot I \cdot cos(\phi)
+$$
+
+- Jalový výkon, který je zodpovědný za tvorbu elektromagnetického pole, se vypočítá takto:
+
+$$
+Q = \sqrt{3} \cdot U \cdot I \cdot sin(\phi)
+$$
+
+```
+P = činný výkon (W)
+Q = jalový výkon (VAr)
+U = sdružené napětí (V)
+I = sdružený proud (A)
+φ = fázový posun mezi napětím a proudem (°)
 ```
 
 
