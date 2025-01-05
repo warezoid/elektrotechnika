@@ -23,6 +23,7 @@
 - [Jalový výkon](#jalový-výkon)
 - [Rezonance](#rezonance)
 - [Tří fázový proud](#tří-fázový-proud)
+- [Točivé magnetické pole](#točivé-magnetické-pole)
 - [Zdroje](#zdroje-kapitoly)
 
 
@@ -544,6 +545,53 @@ U = sdružené napětí (V)
 I = sdružený proud (A)
 φ = fázový posun mezi napětím a proudem (°)
 ```
+
+
+
+
+
+## Točivé magnetické pole
+- Točivé magnetické pole vzniká při rotaci magnetu nebo při správném uspořádání a napájení cívek.
+- Tento jev se využívá především u elektromotorů, kde umožňuje přeměnu elektrické energie na mechanický pohyb.
+- Princip spočívá v tom, že magnetické pole cívek (statických částí motoru, tzv. statoru) působí na rotující část motoru (rotor) složenou z magneticky vodivého materiálu.
+- Ty průběžně vytvářejí a zanikájí magnetické pole, které vytvoří rotující pohyb rotoru.
+- Cívky jsou zapojeny tak, že vytvářejí střídavé magnetické pole, které díky fázovému posunu u třífázového proudu způsobuje rotaci magnetického pole. To následně uvádí rotor do pohybu.
+- Důležitou roli hraje prostorové uspořádání cívek vůči sobě a jejich elektrické napájení s fázovým posunem.
+
+<br>
+
+- Mezi klíčové parametry elektromotoru patří počet závitů na cívkách, počet použitých cívek a jejich vrstev.
+- Tyto parametry umožňují konstrukci elektromotorů s různými provozními vlastnostmi, zejména s odlišnými otáčkami.
+- Rychlost otáčení motoru je přímo úměrná frekvenci napájecího proudu – čím vyšší je frekvence, tím rychleji se otáčí magnetické pole a tedy i rotor.
+
+<br>
+
+- Pokud rotor elektromotoru roztočíme například vnější silou, indukuje se v cívkách napětí, čímž vzniká generátor.
+- Elektromotor, který pokračuje v pohybu vlivem setrvačnosti, se dočasně chová jako generátor.
+
+<br>
+
+
+
+**Synchroní motor**
+
+<br>
+
+- Synchronní motor má rychlost rotace rotoru totožnou s rychlostí točivého magnetického pole.
+- Tento typ motoru se často používá tam, kde je požadována přesná synchronizace otáček, například u některých průmyslových zařízení nebo v generátorech elektrické energie.
+
+<br>
+
+
+
+**Asynchroní motor**
+
+<br>
+
+- Asynchronní motor má rychlost rotace rotoru vždy menší než rychlost točivého magnetického pole.
+- Rotor asynchronního motoru je obvykle složen z plechů, které jsou navzájem izolovány, aby se minimalizovalo vznikání vířivých proudů. Tím se snižuje zbytečné zahřívání rotoru.
+- Rotor obsahuje vodivé tyče (například z hliníku nebo mědi), ve kterých vlivem magnetického pole vznikají vířivé proudy. Tyto proudy pak generují sílu působící proti změně magnetického pole, což způsobuje otáčení rotoru.
+- Kvůli této interakci mezi magnetickým polem a proudy je asynchronní motor nepatrně zpomalen vůči synchronní rychlosti magnetického pole.
 
 
 
