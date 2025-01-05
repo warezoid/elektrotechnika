@@ -602,6 +602,8 @@ I = sdružený proud (A)
     - [Názorná elektrotechnika](https://youtube.com/@nazornaelektrotechnika)
         - [Základy Elektrotechniky](https://youtube.com/playlist?list=PL3r1xGSQfP9TBwvTqYEf6E-L9duHQbnir)
     - [ElectroBOOM](https://www.youtube.com/@ElectroBOOM)
+    - [Peťan](https://www.youtube.com/c/Pe%C5%A5anMylms)
+        - [Řez asynchronním motorem](https://www.youtube.com/watch?v=wSmk6cFGlLc)
 
 - [ChatGPT](https://chatgpt.com/)
 
