@@ -17,6 +17,7 @@ Třetí kapitola popisuje činnost, využití a další informace o klíčových
     - [Spotřebič](#spotřebič)
     - [Kondenzátor](#kondenzátor)
     - [Cívka](#cívka)
+    - [Transformátor](#transformátor)
 - [Zdroje kapitoly](#zdroje-kapitoly)
 
 
@@ -39,14 +40,15 @@ Třetí kapitola popisuje činnost, využití a další informace o klíčových
 
 
 
-#### Spotřebič
+### Spotřebič
 - Směr proudu na spotřebiči je stejný jako orientace napětí.
 
 ---
 
 
 
-#### Kondenzátor
+### Kondenzátor
+
 **Schématické značení**
 
 ![Schématické značení kondenzátoru](../../img/kapitola_3/ilustrace_8.png)
@@ -110,7 +112,8 @@ U = napětí na kondenzátoru (V)
 
 
 
-#### Cívka
+### Cívka
+
 **Schématické značení**
 
 ![Schématické značení cívky](../../img/kapitola_3/ilustrace_9.png)
@@ -158,6 +161,42 @@ I = elektrický proud (A)
 - Spojením dvou cívek lze vytvořit transformátor, který umožňuje přenos napětí a proudu mezi obvody – tento princip je využíván například v zařízeních jako tasery či zapalovací cívky.
 
 ---
+
+
+
+### Transformátor
+- Transformátor slouží ke změně hodnot napětí a proudu při zachování výkonu.
+- Typický transformátor se skládá ze dvou nebo více vinutí (primárního a sekundárního), která jsou umístěna na společném železném jádře. Železné jádro zajišťuje, že magnetický tok je co nejvíce sdílen mezi oběma vinutími.
+- Vinutí nejsou elektricky propojena. Elektrický výkon je přenášen prostřednictvím elektromagnetické indukce: střídavý proud v primárním vinutí vytváří časově proměnné magnetické pole, které indukuje napětí ve vinutí sekundárním.
+- Transformátory tudíž fungují pouze se střídavým proudem, protože pro přenos energie je nutná změna magnetického toku.
+- Přenos výkonu mezi primárním a sekundárním vinutím se řídí zákonem zachování energie, takže platí vztah:
+
+$$
+P_1 = P_2
+$$
+
+- Z tohoto vztahu vyplývá, že součin napětí a proudu je na primární i sekundární straně stejný:
+
+$$
+U_1 \cdot I_1 = U_2 \cdot I_2
+$$
+
+- Poměr napětí, proudu a počtu závitů vinutí lze vyjádřit vztahem:
+
+$$
+\frac{U_1}{U_2} = \frac{I_2}{I_1} = \frac{N_1}{N_2}
+$$
+
+```
+P_1, P_2 = zdánlivý výkon (VA)
+U_1, U_2 = elektrické napětí (V)
+I_1, I_2 = elektrický proud (A)
+N_1, N_2 = počet závitů vinutí
+```
+
+<br>
+
+- Vinutí, kterým prochází větší proud, je obecně vyrobeno z tlustšího drátu, aby vydrželo vyšší proudovou zátěž a tím i tepelné namáhání.
 
 
 
