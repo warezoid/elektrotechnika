@@ -28,7 +28,9 @@ Sekce kapitoly slouží k přehlednější orientaci a navigaci ve skriptech.
     - [Podkapitola 1 - Základní zákony](./src/kapitoly/kapitola_2/podkapitola_1.md)
     - [Podkapitola 2 - Zapojení odporů](./src/kapitoly/kapitola_2/podkapitola_2.md)
     - [Podkapitola 3 - Základní pravidla](./src/kapitoly/kapitola_2/podkapitola_3.md)
-- [Kapitola 3 - Komponenty elektrického obvodu](./src/kapitoly/kapitola_3/podkapitola_1.md)
+- Kapitola 3 - Komponenty elektrického obvodu a polovodiče
+    - [Podkapitola 1 - Komponenty elektrického obvodu](./src/kapitoly/kapitola_3/podkapitola_1.md)
+    - [Podkapitola 2 - Základy elektroniky](./src/kapitoly/kapitola_3/podkapitola_2.md)
 
 
 

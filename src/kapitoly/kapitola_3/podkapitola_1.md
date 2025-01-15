@@ -1,5 +1,6 @@
 [:arrow_left: Základní pravidla](../kapitola_2/podkapitola_3.md)
 
+[:arrow_right: Základy elektroniky](../kapitola_3/podkapitola_2.md)
 
 
 
@@ -217,3 +218,5 @@ N_1, N_2 = počet závitů vinutí
 
 
 [:arrow_left: Základní pravidla](../kapitola_2/podkapitola_3.md)
+
+[:arrow_right: Základy elektroniky](../kapitola_3/podkapitola_2.md)
